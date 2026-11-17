@@ -34,10 +34,7 @@ cdm <- do.call(
 # run ----
 logMessage("Running PhenotypeDiagnostics")
 diagnostics <- phenotypeDiagnostics(cdm$study_cohorts,
-                                    populationDiagnostics = list(cohortId = "asthma"),
-                                    cohortDiagnostics = list(compareCohorts = TRUE,
-                                                             cohortId = "asthma"),
-                                    codelistDiagnostics = list(measurementDiagnostics = TRUE))
+                                    cohortDiagnostics = list(compareCohorts = TRUE))
 
 exportSummarisedResult(diagnostics,
                        minCellCount = minCellCount,

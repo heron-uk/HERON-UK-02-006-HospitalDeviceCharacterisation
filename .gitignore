@@ -1,1 +1,7 @@
 diagnosticsShiny/rsconnect/shinyapps.io/dpa-pde-oxford/heronDiagnosticsShiny.dcf
+.Rproj.user
+diagnosticsShiny/data/appData.qs
+diagnosticsShiny/data/raw/phenotyper_results_AurumLinkedCDM_202603_2026_11_17.csv
+diagnosticsShiny/data/raw/phenotyper_results_GOSH_OMOP_2026_11_18.csv
+diagnosticsShiny/rsconnect/shinyapps.io/dpa-pde-oxford/HospitalDevicePhenotypeR.dcf
+diagnosticsShiny/data/appData.qs

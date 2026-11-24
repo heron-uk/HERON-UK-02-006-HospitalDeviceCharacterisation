@@ -32,9 +32,19 @@ if(stringr::str_detect(tolower(cdmName(cdm)),"aurum")){
                                name = "stroke_hospital",
                                exit = "event_start_date",
                                typeConceptId = 32829)
-  attr(cdm$stroke_hospital, "settings") <- attr(cdm$stroke_hospital, "settings") |>
+  attr(cdm$stroke_hospital, "cohort_set") <- attr(cdm$stroke_hospital, "cohort_set") |>
     mutate(cohort_name = paste0(cohort_name, "_in_hospital"))
+
+  cdm$stroke_primary_care  <- conceptCohort(cdm = cdm,
+                                        conceptSet = codes[stringr::str_detect(names(codes), "stroke")],
+                                        name = "stroke_primary_care",
+                                        exit = "event_start_date",
+                                        typeConceptId = 32840)
+  attr(cdm$stroke_primary_care, "cohort_set") <- attr(cdm$stroke_primary_care, "cohort_set") |>
+    mutate(cohort_name = paste0(cohort_name, "_in_primary_care"))
+
   cdm <- bind(cdm$stroke,
               cdm$stroke_hospital,
+              cdm$stroke_primary_care,
               name = "stroke")
   }

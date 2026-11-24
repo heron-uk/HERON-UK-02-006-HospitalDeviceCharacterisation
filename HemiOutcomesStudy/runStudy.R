@@ -18,8 +18,6 @@ results <- list()
 createLogFile(logFile = file.path(results_folder, "log_{date}_{time}"))
 logMessage("LOG CREATED")
 
-# CDM modifications -----
-
 # CDM summary -----
 results[["snapshot"]] <- summariseOmopSnapshot(cdm)
 results[["obs_period"]] <- summariseObservationPeriod(cdm)
@@ -30,15 +28,19 @@ source(here("cohorts", "instantiateCohorts.R"))
 logMessage("Study cohorts instantiated")
 
 # Cohort counts and attrition ----
-# results[["counts"]] <- summariseCohortCount("...")
-# results[["attrition"]] <- summariseCohortAttrition("...")
+results[["counts_hemi"]] <- summariseCohortCount(cdm$hemi)
+results[["counts_stroke"]] <- summariseCohortCount(cdm$stroke)
+results[["counts_hip_fx"]] <- summariseCohortCount(cdm$hip_fx)
+
+results[["attrition_hemi"]] <- summariseCohortAttrition(cdm$hemi)
+results[["attrition_stroke"]] <- summariseCohortAttrition(cdm$stroke)
+results[["attrition_hip_fx"]] <- summariseCohortAttrition(cdm$hip_fx)
+
 
 # Run analyses ----
 logMessage("Run study analyses")
 source(here("analyses", "cohortCharacteristics.R"))
 source(here("analyses", "cohortSurvival.R"))
-source(here("analyses", "drugUtilisation.R"))
-source(here("analyses", "incidencePrevalence.R"))
 logMessage("Analyses finished")
 
 # Finish ----

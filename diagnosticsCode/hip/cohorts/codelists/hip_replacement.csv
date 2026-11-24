@@ -1,33 +1,33 @@
-concept_id
-1073512
-4035487
-4079258
-4079260
-4138868
-4140294
-4143687
-4144432
-4150990
-4203771
-36674771
-37157471
-37157643
-37157644
-37157645
-37157646
-37157647
-37157648
-40481495
-40492990
-44514777
-44514784
-44514793
-44515504
-44515510
-44515517
-44790443
-44790478
-44790486
-44791175
-44809076
-46272775
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+1073512,Supercapsular percutaneously assisted prosthetic total arthroplasty of hip,Procedure,SNOMED,standard
+4035487,"Total arthroplasty of hip, low friction",Procedure,SNOMED,standard
+4079258,Conversion to cemented total hip replacement,Procedure,SNOMED,standard
+4079260,Conversion to uncemented total hip replacement,Procedure,SNOMED,standard
+4138868,Cemented prosthetic total arthroplasty of hip joint,Procedure,SNOMED,standard
+4140294,Prosthetic hybrid total replacement of hip joint using cemented femoral component,Procedure,SNOMED,standard
+4143687,Prosthetic hybrid total replacement of hip joint using cemented acetabular component,Procedure,SNOMED,standard
+4144432,Uncemented prosthetic total arthroplasty of hip joint,Procedure,SNOMED,standard
+4150990,Prosthetic hybrid total replacement of hip joint,Procedure,SNOMED,standard
+4203771,Total replacement of hip,Procedure,SNOMED,standard
+36674771,Total replacement of left hip joint,Procedure,SNOMED,standard
+37157471,Total replacement of hip joint using metal augmentation,Procedure,SNOMED,standard
+37157643,Total replacement of hip joint using impaction bone graft,Procedure,SNOMED,standard
+37157644,Total replacement of hip joint using mesh,Procedure,SNOMED,standard
+37157645,Total replacement of hip joint using ring,Procedure,SNOMED,standard
+37157646,Total replacement of hip joint using bone allograft,Procedure,SNOMED,standard
+37157647,Total replacement of hip joint using autogenous bone graft,Procedure,SNOMED,standard
+37157648,Total replacement of hip joint using cage,Procedure,SNOMED,standard
+40481495,Total replacement of right hip joint,Procedure,SNOMED,standard
+40492990,Conversion to total prosthetic replacement of hip joint,Procedure,SNOMED,standard
+44514777,Other specified total prosthetic replacement of hip joint using cement,Procedure,OPCS4,standard
+44514784,Other specified total prosthetic replacement of hip joint not using cement,Procedure,OPCS4,standard
+44514793,Other specified other total prosthetic replacement of hip joint,Procedure,OPCS4,standard
+44515504,Other specified hybrid prosthetic replacement of hip joint using cemented acetabular component,Procedure,OPCS4,standard
+44515510,Other specified hybrid prosthetic replacement of hip joint using cemented femoral component,Procedure,OPCS4,standard
+44515517,Other specified hybrid prosthetic replacement of hip joint using cement,Procedure,OPCS4,standard
+44790443,Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component,Procedure,SNOMED,standard
+44790478,Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component,Procedure,SNOMED,standard
+44790486,Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component,Procedure,SNOMED,standard
+44791175,Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component,Procedure,SNOMED,standard
+44809076,Conversion to hybrid prosthetic replacement of hip joint using cement,Procedure,SNOMED,standard
+46272775,Conversion to prosthetic hybrid total replacement of hip joint using cemented femoral component,Procedure,SNOMED,standard

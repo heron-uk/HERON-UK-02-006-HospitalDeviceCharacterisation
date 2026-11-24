@@ -1,358 +1,358 @@
-concept_id
-313209
-313217
-313224
-313780
-313791
-313792
-314059
-314379
-314664
-314665
-314749
-315069
-315643
-316135
-316429
-316432
-316998
-316999
-317100
-317302
-317893
-318448
-320425
-320744
-321042
-321315
-321587
-321590
-437579
-437892
-437894
-441872
-443522
-443523
-605092
-606035
-606036
-606049
-606053
-606054
-606055
-606056
-606057
-606060
-606064
-606067
-606069
-606073
-606078
-606079
-606083
-606084
-606087
-606090
-606091
-606092
-606093
-606094
-606095
-606096
-606097
-606139
-607219
-607220
-608077
-609068
-761738
-764719
-766249
-1075855
-1245080
-1245123
-1340258
-3656145
-3656226
-4006208
-4008580
-4023336
-4028322
-4029303
-4030583
-4032785
-4034164
-4038688
-4041343
-4049219
-4057008
-4068155
-4068740
-4069188
-4078058
-4081675
-4086313
-4088210
-4088332
-4088336
-4088337
-4088338
-4088347
-4088350
-4088351
-4088352
-4088496
-4088502
-4088503
-4088504
-4088505
-4088506
-4088507
-4088983
-4088984
-4088985
-4088986
-4088987
-4089460
-4089461
-4089462
-4089463
-4089464
-4091446
-4091899
-4091901
-4091902
-4091903
-4091904
-4092011
-4098133
-4099778
-4101624
-4102252
-4106274
-4106715
-4108241
-4108828
-4108830
-4109365
-4110550
-4111543
-4111546
-4111552
-4111570
-4111698
-4111700
-4115173
-4117112
-4119598
-4119601
-4119602
-4119603
-4119604
-4119605
-4120084
-4120085
-4120086
-4120087
-4120088
-4121479
-4121480
-4121481
-4121613
-4121615
-4122762
-4124696
-4124697
-4124698
-4124699
-4124700
-4124701
-4124702
-4124704
-4128968
-4137382
-4137871
-4138545
-4138973
-4141360
-4143042
-4146580
-4148028
-4153404
-4154290
-4161597
-4164083
-4166380
-4166844
-4169261
-4171193
-4171269
-4171683
-4171887
-4172822
-4172863
-4173170
-4173446
-4173792
-4175473
-4176112
-4184950
-4185572
-4190306
-4191222
-4199501
-4201023
-4205137
-4210313
-4216773
-4217221
-4217860
-4218242
-4218739
-4221549
-4222125
-4224848
-4226399
-4228448
-4228836
-4232691
-4232697
-4236004
-4243143
-4244693
-4244893
-4247537
-4248028
-4249027
-4250169
-4253363
-4254116
-4256374
-4258998
-4261842
-4262389
-4267892
-4268046
-4269927
-4271464
-4275423
-4277903
-4280348
-4295336
-4296729
-4298806
-4301015
-4302802
-4303238
-4303256
-4303408
-4304095
-4304839
-4305210
-4306984
-4309332
-4320474
-4325850
-4327066
-35608001
-35608087
-35624231
-36674897
-36675005
-36676642
-36712986
-36714539
-36714606
-36714994
-36715042
-36715370
-36717434
-37017187
-37108582
-37109912
-37109917
-37110775
-37116420
-37117768
-37151415
-37155430
-37160982
-37161418
-37162087
-37162755
-37162997
-37163002
-37163034
-37163279
-37163281
-37163282
-37163284
-37163286
-37163287
-37163297
-37163299
-37163323
-37163325
-37163819
-37163851
-37164344
-37169385
-37169854
-37170582
-37171038
-37172212
-37172244
-37174277
-37312140
-37312595
-37395821
-37395937
-37396235
-37398927
-37398951
-37399476
-40479232
-40479264
-40480216
-40481891
-40484036
-40622721
-42534858
-42536724
-42536725
-42536726
-42538755
-42539038
-42539346
-42872924
-43020494
-43020495
-43020929
-43020930
-43021222
-43021733
-43022053
-43530960
-44782442
-44782643
-44782707
-44782789
-44783199
-44783658
-44784217
-44784218
-44784219
-44784220
-44784234
-44784235
-44784236
-44784368
-45757098
-45766074
-45768480
-46269694
-46269805
-46269812
-46272503
-46274066
-46284985
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+313209,Left bundle branch hemiblock,Condition,SNOMED,standard
+313217,Atrial fibrillation,Condition,SNOMED,standard
+313224,Anomalous atrioventricular excitation,Condition,SNOMED,standard
+313780,Mobitz type II atrioventricular block,Condition,SNOMED,standard
+313791,Bundle branch block,Condition,SNOMED,standard
+313792,Paroxysmal tachycardia,Condition,SNOMED,standard
+314059,Right bundle branch block,Condition,SNOMED,standard
+314379,First degree atrioventricular block,Condition,SNOMED,standard
+314664,Long QT syndrome,Condition,SNOMED,standard
+314665,Atrial flutter,Condition,SNOMED,standard
+314749,Fetal bradycardia,Condition,SNOMED,standard
+315069,Congenital heart block,Condition,SNOMED,standard
+315643,Tachyarrhythmia,Condition,SNOMED,standard
+316135,Atrioventricular block,Condition,SNOMED,standard
+316429,Premature beats,Condition,SNOMED,standard
+316432,Right bundle branch block AND left anterior fascicular block,Condition,SNOMED,standard
+316998,Left bundle branch block,Condition,SNOMED,standard
+316999,Conduction disorder of the heart,Condition,SNOMED,standard
+317100,Fetal tachycardia,Condition,SNOMED,standard
+317302,Sinus node dysfunction,Condition,SNOMED,standard
+317893,Paroxysmal supraventricular tachycardia,Condition,SNOMED,standard
+318448,Second degree atrioventricular block,Condition,SNOMED,standard
+320425,Heart block,Condition,SNOMED,standard
+320744,Complete atrioventricular block,Condition,SNOMED,standard
+321042,Cardiac arrest,Condition,SNOMED,standard
+321315,Trifascicular block,Condition,SNOMED,standard
+321587,Bilateral bundle branch block,Condition,SNOMED,standard
+321590,Right bundle branch block AND left posterior fascicular block,Condition,SNOMED,standard
+437579,Paroxysmal ventricular tachycardia,Condition,SNOMED,standard
+437892,Lown-Ganong-Levine syndrome,Condition,SNOMED,standard
+437894,Ventricular fibrillation,Condition,SNOMED,standard
+441872,Supraventricular premature beats,Condition,SNOMED,standard
+443522,Neonatal bradycardia,Condition,SNOMED,standard
+443523,Neonatal tachycardia,Condition,SNOMED,standard
+605092,Paroxysmal atrial fibrillation with rapid ventricular response,Condition,SNOMED,standard
+606035,Right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606036,Non-scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606049,Anticlockwise cavotricuspid isthmus dependent macroreentry tachycardia,Condition,SNOMED,standard
+606053,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction,Condition,SNOMED,standard
+606054,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-fascicular accessory pathway with antegrade unidirectional conduction,Condition,SNOMED,standard
+606055,Non scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606056,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with antegrade unidirectional conduction,Condition,SNOMED,standard
+606057,Scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606060,Idiopathic junctional ectopic tachycardia,Condition,SNOMED,standard
+606064,Congenital junctional ectopic tachycardia,Condition,SNOMED,standard
+606067,Clockwise cavotricuspid isthmus dependent macroreentry tachycardia,Condition,SNOMED,standard
+606069,Left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606073,Postoperative junctional ectopic tachycardia,Condition,SNOMED,standard
+606078,Antidromic atrioventricular reciprocating tachycardia utilizing nodo-fascicular accessory pathway with antegrade unidirectional conduction,Condition,SNOMED,standard
+606079,Typical atrioventricular nodal re-entry tachycardia,Condition,SNOMED,standard
+606083,Sinus bradycardia caused by drug,Condition,SNOMED,standard
+606084,Sinus bradycardia due to metabolic disease,Condition,SNOMED,standard
+606087,Scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+606090,Atypical slow slow atrioventricular nodal re-entry tachycardia,Condition,SNOMED,standard
+606091,Atypical atrioventricular nodal re-entry tachycardia,Condition,SNOMED,standard
+606092,Atypical fast slow atrioventricular nodal re-entry tachycardia,Condition,SNOMED,standard
+606093,Orthodromic atrioventricular reciprocating tachycardia utilizing manifest accessory pathway,Condition,SNOMED,standard
+606094,Atrioventricular nodal reentry tachycardia with twin atrioventricular nodes,Condition,SNOMED,standard
+606095,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with bidirectional conduction,Condition,SNOMED,standard
+606096,Atrial premature depolarization with aberrant ventricular conduction,Condition,SNOMED,standard
+606097,Atrial premature depolarization with normal conduction,Condition,SNOMED,standard
+606139,Orthodromic atrioventricular reciprocating tachycardia utilizing concealed accessory pathway,Condition,SNOMED,standard
+607219,Cardiac arrest due to procedure,Condition,SNOMED,standard
+607220,Cardiac arrest during procedure,Condition,SNOMED,standard
+608077,Autosomal recessive sick sinus syndrome,Condition,SNOMED,standard
+609068,Supraventricular tachycardia following acute myocardial infarction,Condition,SNOMED,standard
+761738,Cardiac arrest following cardiac surgery,Condition,SNOMED,standard
+764719,Idiopathic cardiac arrest,Condition,SNOMED,standard
+766249,Exacerbation of cardiac arrhythmia,Condition,OMOP Extension,standard
+1075855,Agonal rhythm,Condition,SNOMED,standard
+1245080,Stable tachyarrhythmia,Condition,SNOMED,standard
+1245123,Stable bradyarrhythmia,Condition,SNOMED,standard
+1340258,Exacerbation of atrial fibrillation,Condition,OMOP Extension,standard
+3656145,Multiple atrial ectopics,Condition,SNOMED,standard
+3656226,Multifocal atrial ectopics,Condition,SNOMED,standard
+4006208,Parasystole,Condition,SNOMED,standard
+4008580,Ventricular bigeminy,Condition,SNOMED,standard
+4023336,Multifocal premature ventricular complexes,Condition,SNOMED,standard
+4028322,Sinoatrial arrest with nodal/ventricular escape,Condition,SNOMED,standard
+4029303,Fusion beats,Condition,SNOMED,standard
+4030583,Cardiac pacemaker twiddler syndrome,Condition,SNOMED,standard
+4032785,"Right bundle branch block, posterior fascicular block AND incomplete left bundle branch block",Condition,SNOMED,standard
+4034164,Monofascicular block,Condition,SNOMED,standard
+4038688,AV junctional rhythm,Condition,SNOMED,standard
+4041343,Cardiac arrest following obstetric procedure,Condition,SNOMED,standard
+4049219,Romano-Ward syndrome,Condition,SNOMED,standard
+4057008,Accelerated atrioventricular conduction,Condition,SNOMED,standard
+4068155,Atrial arrhythmia,Condition,SNOMED,standard
+4068740,Congenital incomplete atrioventricular heart block,Condition,SNOMED,standard
+4069188,Congenital complete atrioventricular heart block,Condition,SNOMED,standard
+4078058,Holt-Oram syndrome,Condition,SNOMED,standard
+4081675,Atrioventricular tachycardia,Condition,SNOMED,standard
+4086313,Withdrawal arrhythmia,Condition,SNOMED,standard
+4088210,Sinus arrest with junctional escape,Condition,SNOMED,standard
+4088332,Intermittent second degree atrioventricular block,Condition,SNOMED,standard
+4088336,Incomplete left bundle branch block,Condition,SNOMED,standard
+4088337,Complete right bundle branch block,Condition,SNOMED,standard
+4088338,Incomplete right bundle branch block,Condition,SNOMED,standard
+4088347,Marked sinus arrhythmia,Condition,SNOMED,standard
+4088350,Slow ventricular response,Condition,SNOMED,standard
+4088351,Junctional premature complex,Condition,SNOMED,standard
+4088352,Sinus arrest with atrial escape,Condition,SNOMED,standard
+4088496,Minor intraventricular conduction defect,Condition,SNOMED,standard
+4088502,AV junctional (nodal) arrest,Condition,SNOMED,standard
+4088503,AV junctional (nodal) tachycardia,Condition,SNOMED,standard
+4088504,Atrial bigeminy,Condition,SNOMED,standard
+4088505,Ventricular trigeminy,Condition,SNOMED,standard
+4088506,Ventricular quadrigeminy,Condition,SNOMED,standard
+4088507,Ventricular escape complex,Condition,SNOMED,standard
+4088983,AV-junctional (nodal) bradycardia,Condition,SNOMED,standard
+4088984,Blocked premature atrial contraction,Condition,SNOMED,standard
+4088985,Multiple premature ventricular complexes,Condition,SNOMED,standard
+4088986,Atrial escape complex,Condition,SNOMED,standard
+4088987,Atrial parasystole,Condition,SNOMED,standard
+4089460,Multiple atrial premature complexes,Condition,SNOMED,standard
+4089461,Run of atrial premature complexes,Condition,SNOMED,standard
+4089462,Ventricular premature complex,Condition,SNOMED,standard
+4089463,Multiple ventricular interpolated complexes,Condition,SNOMED,standard
+4089464,Paired ventricular premature complexes,Condition,SNOMED,standard
+4091446,Sinus arrest with ventricular escape,Condition,SNOMED,standard
+4091899,Junctional ectopic tachycardia,Condition,SNOMED,standard
+4091901,Aberrant premature complexes,Condition,SNOMED,standard
+4091902,Supraventricular bigeminy,Condition,SNOMED,standard
+4091903,Atrial trigeminy,Condition,SNOMED,standard
+4091904,Run of ventricular premature complexes,Condition,SNOMED,standard
+4092011,Aberrantly conducted complex,Condition,SNOMED,standard
+4098133,Chronic ectopic atrial tachycardia,Condition,SNOMED,standard
+4099778,Unifocal premature ventricular complexes,Condition,SNOMED,standard
+4101624,Arrhythmogenic right ventricular dysplasia,Condition,SNOMED,standard
+4102252,Asymptomatic sinoatrial node dysfunction,Condition,SNOMED,standard
+4106274,Neonatal cardiac arrest,Condition,SNOMED,standard
+4106715,Vagal autonomic bradycardia,Condition,SNOMED,standard
+4108241,Paroxysmal atrioventricular tachycardia,Condition,SNOMED,standard
+4108828,Ventricular pre-excitation,Condition,SNOMED,standard
+4108830,Atrial paroxysmal tachycardia,Condition,SNOMED,standard
+4109365,Premature atrial contraction,Condition,SNOMED,standard
+4110550,Neonatal cardiorespiratory arrest,Condition,SNOMED,standard
+4111543,Left main stem bundle branch block,Condition,SNOMED,standard
+4111546,Paroxysmal junctional tachycardia,Condition,SNOMED,standard
+4111552,Re-entry ventricular arrhythmia,Condition,SNOMED,standard
+4111570,Partial atrioventricular block,Condition,SNOMED,standard
+4111698,Paroxysmal nodal tachycardia,Condition,SNOMED,standard
+4111700,Ventricular fibrillation and flutter,Condition,SNOMED,standard
+4115173,Atrial premature complex,Condition,SNOMED,standard
+4117112,Controlled atrial fibrillation,Condition,SNOMED,standard
+4119598,Congenital His bundle tachycardia,Condition,SNOMED,standard
+4119601,Lone atrial fibrillation,Condition,SNOMED,standard
+4119602,Non-rheumatic atrial fibrillation,Condition,SNOMED,standard
+4119603,Familial sick sinus syndrome,Condition,SNOMED,standard
+4119604,Paroxysmal familial ventricular fibrillation,Condition,SNOMED,standard
+4119605,Postoperative complete heart block,Condition,SNOMED,standard
+4120084,Sinoatrial node tachycardia,Condition,SNOMED,standard
+4120085,Supraventricular tachycardia with functional bundle branch block,Condition,SNOMED,standard
+4120086,His bundle tachycardia,Condition,SNOMED,standard
+4120087,Unidirectional retrograde accessory pathway,Condition,SNOMED,standard
+4120088,Cardiac arrest with successful resuscitation,Condition,SNOMED,standard
+4121479,Ectopic atrial tachycardia,Condition,SNOMED,standard
+4121480,Ectopic atrioventricular node tachycardia,Condition,SNOMED,standard
+4121481,Antidromic atrioventricular re-entrant tachycardia,Condition,SNOMED,standard
+4121613,Familial isolated complete right bundle branch block,Condition,SNOMED,standard
+4121615,Concealed accessory pathway,Condition,SNOMED,standard
+4122762,Pulseless electrical activity,Condition,SNOMED,standard
+4124696,Re-entrant atrial tachycardia,Condition,SNOMED,standard
+4124697,Incessant atrial tachycardia,Condition,SNOMED,standard
+4124698,Re-entrant atrioventricular node tachycardia,Condition,SNOMED,standard
+4124699,Re-entrant atrioventricular tachycardia,Condition,SNOMED,standard
+4124700,Orthodromic atrioventricular re-entrant tachycardia,Condition,SNOMED,standard
+4124701,Postoperative His bundle tachycardia,Condition,SNOMED,standard
+4124702,Permanent junctional reciprocating tachycardia,Condition,SNOMED,standard
+4124704,Postoperative sinus node dysfunction,Condition,SNOMED,standard
+4128968,Circulatory arrest,Condition,SNOMED,standard
+4137382,Chronic atrial flutter,Condition,SNOMED,standard
+4137871,Inappropriate sinus tachycardia,Condition,SNOMED,standard
+4138545,"Right bundle branch block, anterior fascicular block AND posterior fascicular block",Condition,SNOMED,standard
+4138973,Right bundle branch block with left bundle branch block,Condition,SNOMED,standard
+4141360,Chronic atrial fibrillation,Condition,SNOMED,standard
+4143042,Ectopic beats,Condition,SNOMED,standard
+4146580,Paroxysmal atrial flutter,Condition,SNOMED,standard
+4148028,Pulseless electrical activity with successful resuscitation,Condition,SNOMED,standard
+4153404,Lev's syndrome,Condition,SNOMED,standard
+4154290,Paroxysmal atrial fibrillation,Condition,SNOMED,standard
+4161597,Jervell and Lange-Nielsen syndrome,Condition,SNOMED,standard
+4164083,Ectopic rhythm,Condition,SNOMED,standard
+4166380,Junctional escape beats,Condition,SNOMED,standard
+4166844,Intraventricular conduction defect,Condition,SNOMED,standard
+4169261,Severe sinus bradycardia,Condition,SNOMED,standard
+4171193,Idioventricular rhythm,Condition,SNOMED,standard
+4171269,Atrial tachycardia,Condition,SNOMED,standard
+4171683,Sinus bradycardia,Condition,SNOMED,standard
+4171887,Left atrial incisional tachycardia,Condition,SNOMED,standard
+4172822,Cardiac arrest due to cardiac disorder,Condition,SNOMED,standard
+4172863,Fetal dysrhythmia,Condition,SNOMED,standard
+4173170,Neonatal dysrhythmia,Condition,SNOMED,standard
+4173446,Cardiac arrest due to respiratory disorder,Condition,SNOMED,standard
+4173792,Cardiac arrest due to drowning,Condition,SNOMED,standard
+4175473,Atrioventricular dissociation,Condition,SNOMED,standard
+4176112,Multifocal atrial tachycardia,Condition,SNOMED,standard
+4184950,Right bundle branch block AND incomplete left bundle branch block,Condition,SNOMED,standard
+4185572,Ventricular arrhythmia,Condition,SNOMED,standard
+4190306,Paroxysmal atrial tachycardia with block,Condition,SNOMED,standard
+4191222,Nonparoxysmal AV nodal tachycardia,Condition,SNOMED,standard
+4199501,Rapid atrial fibrillation,Condition,SNOMED,standard
+4201023,Congenital conduction defect,Condition,SNOMED,standard
+4205137,Mobitz type I incomplete atrioventricular block,Condition,SNOMED,standard
+4210313,Sinus arrest,Condition,SNOMED,standard
+4216773,Asystole,Condition,SNOMED,standard
+4217221,Nodal rhythm disorder,Condition,SNOMED,standard
+4217860,"Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block",Condition,SNOMED,standard
+4218242,Ventricular escape rhythm,Condition,SNOMED,standard
+4218739,Junctional premature beats,Condition,SNOMED,standard
+4221549,Irregular tachycardia,Condition,SNOMED,standard
+4222125,Fetal tachycardia affecting management of mother,Condition,SNOMED,standard
+4224848,Andersen Tawil syndrome,Condition,SNOMED,standard
+4226399,Fibrillation,Condition,SNOMED,standard
+4228448,Bradyarrhythmia,Condition,SNOMED,standard
+4228836,AV node arrhythmia,Condition,SNOMED,standard
+4232691,Permanent atrial fibrillation,Condition,SNOMED,standard
+4232697,Persistent atrial fibrillation,Condition,SNOMED,standard
+4236004,Ectopic atrial beats,Condition,SNOMED,standard
+4243143,Interpolated ventricular premature complexes,Condition,SNOMED,standard
+4244693,"Right bundle branch block, anterior fascicular block AND incomplete left bundle branch block",Condition,SNOMED,standard
+4244893,Ventricular parasystole,Condition,SNOMED,standard
+4247537,Accelerated idioventricular rhythm,Condition,SNOMED,standard
+4248028,Supraventricular arrhythmia,Condition,SNOMED,standard
+4249027,"Right branch block, incomplete anterior fascicular block AND incomplete posterior fascicular block",Condition,SNOMED,standard
+4250169,Bifascicular block,Condition,SNOMED,standard
+4253363,Wolff-Parkinson-White pattern,Condition,SNOMED,standard
+4254116,Tachycardia-bradycardia,Condition,SNOMED,standard
+4256374,Cardiorespiratory arrest,Condition,SNOMED,standard
+4258998,Persistent sinus bradycardia,Condition,SNOMED,standard
+4261842,Sick sinus syndrome,Condition,SNOMED,standard
+4262389,Tic-tac rhythm,Condition,SNOMED,standard
+4267892,Complete left bundle branch block,Condition,SNOMED,standard
+4268046,Left posterior fascicular block,Condition,SNOMED,standard
+4269927,Cardiac arrest AND/OR failure following anesthesia AND/OR sedation in labor AND/OR delivery,Condition,SNOMED,standard
+4271464,Multifocal premature beats,Condition,SNOMED,standard
+4275423,Supraventricular tachycardia,Condition,SNOMED,standard
+4277903,Sinoatrial block,Condition,SNOMED,standard
+4280348,"Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block",Condition,SNOMED,standard
+4295336,Left anterior fascicular block,Condition,SNOMED,standard
+4296729,"Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block",Condition,SNOMED,standard
+4298806,Incomplete atrioventricular block with atrioventricular response,Condition,SNOMED,standard
+4301015,Cardiac arrest due to pacemaker failure,Condition,SNOMED,standard
+4302802,Right atrial incisional tachycardia,Condition,SNOMED,standard
+4303238,Catecholaminergic polymorphic ventricular tachycardia,Condition,SNOMED,standard
+4303256,Sinoatrial nodal reentrant tachycardia,Condition,SNOMED,standard
+4303408,Brugada syndrome,Condition,SNOMED,standard
+4304095,Incisional tachycardia,Condition,SNOMED,standard
+4304839,Diffuse intraventricular block,Condition,SNOMED,standard
+4305210,Atrioventricular conduction disorder,Condition,SNOMED,standard
+4306984,Cardiac arrest due to trauma,Condition,SNOMED,standard
+4309332,Cardiac arrest as a complication of care,Condition,SNOMED,standard
+4320474,Idiojunctional tachycardia,Condition,SNOMED,standard
+4325850,Sustained ventricular fibrillation,Condition,SNOMED,standard
+4327066,Ventricular escape beat,Condition,SNOMED,standard
+35608001,Ankyrin-B syndrome,Condition,SNOMED,standard
+35608087,"Microcephalus, cerebellar hypoplasia, cardiac conduction defect syndrome",Condition,SNOMED,standard
+35624231,Familial dilated cardiomyopathy with conduction defect due to LMNA mutation,Condition,SNOMED,standard
+36674897,Sinoatrial node dysfunction and deafness,Condition,SNOMED,standard
+36675005,"Extrasystoles, short stature, hyperpigmentation, microcephaly syndrome",Condition,SNOMED,standard
+36676642,"X-linked intellectual disability, cardiomegaly, congestive heart failure syndrome",Condition,SNOMED,standard
+36712986,Atypical atrial flutter,Condition,SNOMED,standard
+36714539,"Ventricular extrasystoles with syncope, perodactyly and Robin sequence syndrome",Condition,SNOMED,standard
+36714606,Timothy syndrome type 2,Condition,SNOMED,standard
+36714994,Typical atrial flutter,Condition,SNOMED,standard
+36715042,Chronic atrial and intestinal dysrhythmia,Condition,SNOMED,standard
+36715370,Heart-hand syndrome type 2,Condition,SNOMED,standard
+36717434,Heart-hand syndrome type 3,Condition,SNOMED,standard
+37017187,Intraoperative cardiorespiratory arrest,Condition,SNOMED,standard
+37108582,Arrhythmia during surgery,Condition,SNOMED,standard
+37109912,Arrhythmia due to and following acute myocardial infarction,Condition,SNOMED,standard
+37109917,Idiopathic ventricular fibrillation not Brugada type,Condition,SNOMED,standard
+37110775,"Atrial septal defect, atrioventricular conduction defect syndrome",Condition,SNOMED,standard
+37116420,Acquired complete atrioventricular block,Condition,SNOMED,standard
+37117768,Long thumb brachydactyly syndrome,Condition,SNOMED,standard
+37151415,Postoperative cardiac arrhythmia,Condition,SNOMED,standard
+37155430,Timothy syndrome,Condition,SNOMED,standard
+37160982,"Recurrent metabolic encephalomyopathic crises, rhabdomyolysis, cardiac arrhythmia, intellectual disability syndrome",Condition,SNOMED,standard
+37161418,BVES-related limb girdle muscular dystrophy,Condition,SNOMED,standard
+37162087,"GNB5-related intellectual disability, cardiac arrhythmia syndrome",Condition,SNOMED,standard
+37162755,"Familial atrial tachyarrhythmia, infra-Hisian cardiac conduction disease",Condition,SNOMED,standard
+37162997,Cardiac arrhythmia due to coronary artery spasm,Condition,SNOMED,standard
+37163002,Catecholaminergic polymorphic ventricular tachycardia due to RYR2 mutation,Condition,SNOMED,standard
+37163034,Catecholaminergic polymorphic ventricular tachycardia due to calsequestrin mutation,Condition,SNOMED,standard
+37163279,Long QT syndrome type 4,Condition,SNOMED,standard
+37163281,Long QT syndrome type 5,Condition,SNOMED,standard
+37163282,Long QT syndrome type 2,Condition,SNOMED,standard
+37163284,Long QT syndrome type 3,Condition,SNOMED,standard
+37163286,Long QT syndrome type 12,Condition,SNOMED,standard
+37163287,Long QT syndrome type 13,Condition,SNOMED,standard
+37163297,Long QT syndrome type 11,Condition,SNOMED,standard
+37163299,Long QT syndrome type 10,Condition,SNOMED,standard
+37163323,Long QT syndrome type 6,Condition,SNOMED,standard
+37163325,Long QT syndrome type 9,Condition,SNOMED,standard
+37163819,Regular wide QRS complex tachycardia,Condition,SNOMED,standard
+37163851,Three consecutive ventricular premature complexes,Condition,SNOMED,standard
+37164344,Atypical Timothy syndrome,Condition,SNOMED,standard
+37169385,Cardiac arrest during cardiac surgery,Condition,SNOMED,standard
+37169854,Fetal cardiac arrest,Condition,SNOMED,standard
+37170582,Permanent atrial fibrillation due to heart valve disorder,Condition,SNOMED,standard
+37171038,Atrial fibrillation due to heart valve disorder,Condition,SNOMED,standard
+37172212,Paroxysmal atrial fibrillation due to heart valve disorder,Condition,SNOMED,standard
+37172244,Persistent atrial fibrillation due to heart valve disorder,Condition,SNOMED,standard
+37174277,Cardiac arrhythmia during pregnancy,Condition,SNOMED,standard
+37312140,Acquired Brugada syndrome,Condition,SNOMED,standard
+37312595,Scar mediated macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+37395821,Familial atrial fibrillation,Condition,SNOMED,standard
+37395937,Idiopathic neonatal atrial flutter,Condition,SNOMED,standard
+37396235,Long QT syndrome caused by drug,Condition,SNOMED,standard
+37398927,Naxos disease,Condition,SNOMED,standard
+37398951,Cardiac arrest during surgery,Condition,SNOMED,standard
+37399476,Familial isolated arrhythmogenic right ventricular dysplasia,Condition,SNOMED,standard
+40479232,Familial long QT syndrome,Condition,SNOMED,standard
+40479264,Acquired long QT syndrome,Condition,SNOMED,standard
+40480216,Symptomatic sinus bradycardia,Condition,SNOMED,standard
+40481891,Heart block caused by drug,Condition,SNOMED,standard
+40484036,Bundle branch reentrant ventricular tachycardia,Condition,SNOMED,standard
+40622721,Ventricular tachyarrhythmia,Condition,SNOMED,standard
+42534858,Cardiac arrest due to administration of anesthesia in pregnancy,Condition,SNOMED,standard
+42536724,Macro re-entrant atrial tachycardia,Condition,SNOMED,standard
+42536725,Cavotricuspid isthmus dependent macroreentry tachycardia,Condition,SNOMED,standard
+42536726,Atrioventricular reciprocating tachycardia,Condition,SNOMED,standard
+42538755,Supraventricular bradyarrhythmia,Condition,SNOMED,standard
+42539038,Non-cavotricuspid isthmus dependent atrial tachycardia,Condition,SNOMED,standard
+42539346,Preexcited atrial fibrillation,Condition,SNOMED,standard
+42872924,Atrial standstill,Condition,SNOMED,standard
+43020494,High degree second degree atrioventricular block,Condition,SNOMED,standard
+43020495,Postoperative atrioventricular block,Condition,SNOMED,standard
+43020929,Atrioventricular block due to endocarditis,Condition,SNOMED,standard
+43020930,Arrhythmia due to vegetation of infective endocarditis,Condition,SNOMED,standard
+43021222,Vagal autonomic bradycardia of prematurity,Condition,SNOMED,standard
+43021733,Fetal supraventricular tachycardia with long ventriculoatrial interval,Condition,SNOMED,standard
+43022053,Fetal supraventricular tachycardia with short ventriculoatrial interval,Condition,SNOMED,standard
+43530960,Induced termination of pregnancy complicated by cardiac arrest,Condition,SNOMED,standard
+44782442,Atrial fibrillation with rapid ventricular response,Condition,SNOMED,standard
+44782643,"Progressive familial heart block, type II",Condition,SNOMED,standard
+44782707,Nonsustained paroxysmal ventricular tachycardia,Condition,SNOMED,standard
+44782789,Nonsustained paroxysmal supraventricular tachycardia,Condition,SNOMED,standard
+44783199,Timothy syndrome type 1,Condition,SNOMED,standard
+44783658,Cardiorespiratory arrest with successful resuscitation,Condition,SNOMED,standard
+44784217,Cardiac arrhythmia,Condition,SNOMED,standard
+44784218,Progressive familial heart block,Condition,SNOMED,standard
+44784219,"Progressive familial heart block, type IB",Condition,SNOMED,standard
+44784220,Non-specific intraventricular conduction delay,Condition,SNOMED,standard
+44784234,Cardiac arrhythmia associated with genetic disorder,Condition,SNOMED,standard
+44784235,Cardiac channelopathy,Condition,SNOMED,standard
+44784236,Short QT syndrome,Condition,SNOMED,standard
+44784368,Postoperative cardiopulmonary failure,Condition,SNOMED,standard
+45757098,Cardiac arrhythmia in mother complicating childbirth,Condition,SNOMED,standard
+45766074,Bradycardic cardiac arrest,Condition,SNOMED,standard
+45768480,Longstanding persistent atrial fibrillation,Condition,SNOMED,standard
+46269694,Complete atrioventricular block as complication of atrioventricular nodal ablation,Condition,SNOMED,standard
+46269805,Cardiac arrest due to failed attempted abortion,Condition,SNOMED,standard
+46269812,Cardiac arrest due to miscarriage,Condition,SNOMED,standard
+46272503,Mahaim fiber tachycardia,Condition,SNOMED,standard
+46274066,Cardiac arrest due to incomplete miscarriage,Condition,SNOMED,standard
+46284985,Holiday heart syndrome,Condition,SNOMED,standard

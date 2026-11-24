@@ -1,15 +1,15 @@
-concept_id
-1244122
-1244139
-1244140
-1245611
-4079749
-4116769
-4344156
-36684455
-36713109
-36713110
-37310642
-37310643
-37311900
-46273178
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+1244122,Secondary osteoarthritis of hip,Condition,SNOMED,standard
+1244139,Secondary osteoarthritis of left hip,Condition,SNOMED,standard
+1244140,Secondary osteoarthritis of right hip,Condition,SNOMED,standard
+1245611,Secondary osteoarthritis of bilateral hips,Condition,SNOMED,standard
+4079749,Osteoarthritis of hip,Condition,SNOMED,standard
+4116769,Osteoarthritis of bilateral hip joints due to and following trauma,Condition,SNOMED,standard
+4344156,Otto's pelvis,Condition,SNOMED,standard
+36684455,Osteoarthritis of bilateral hip joints,Condition,SNOMED,standard
+36713109,Osteoarthritis of left hip joint,Condition,SNOMED,standard
+36713110,Osteoarthritis of right hip joint,Condition,SNOMED,standard
+37310642,Osteoarthritis of right hip joint due to dysplasia,Condition,SNOMED,standard
+37310643,Osteoarthritis of left hip joint due to dysplasia,Condition,SNOMED,standard
+37311900,Osteoarthritis of hip due to and following trauma,Condition,SNOMED,standard
+46273178,Osteoarthritis of hip due to dysplasia,Condition,SNOMED,standard

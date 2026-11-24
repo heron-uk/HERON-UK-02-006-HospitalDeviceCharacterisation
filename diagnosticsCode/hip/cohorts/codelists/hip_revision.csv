@@ -1,37 +1,37 @@
-concept_id
-1242759
-2104837
-2104838
-2104839
-2104840
-4010119
-4013342
-4076070
-4076468
-4079261
-4079263
-4090926
-4166842
-4178315
-4220390
-4234951
-4266062
-35625480
-35625764
-35625794
-37153607
-37157457
-37157470
-37157483
-37157539
-37157641
-37157642
-37164313
-42536396
-42536397
-43531427
-44514791
-44514852
-44514854
-44790959
-44809077
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+1242759,Revision of prosthetic total arthroplasty of bilateral hip joints,Procedure,SNOMED,standard
+2104837,NA,NA,NA,NA
+2104838,NA,NA,NA,NA
+2104839,NA,NA,NA,NA
+2104840,NA,NA,NA,NA
+4010119,Revision of prosthetic replacement of hip joint,Procedure,SNOMED,standard
+4013342,Total revision of hip replacement with use of methyl methacrylate,Procedure,SNOMED,standard
+4076070,Revision of uncemented total prosthetic replacement of hip joint,Procedure,SNOMED,standard
+4076468,Revision of cemented total prosthetic replacement of hip joint,Procedure,SNOMED,standard
+4079261,Revision cemented hemiarthroplasty of hip,Procedure,SNOMED,standard
+4079263,Revision uncemented hemiarthroplasty of hip,Procedure,SNOMED,standard
+4090926,Revision of hip arthroplasty,Procedure,SNOMED,standard
+4166842,"Revision of total hip arthroplasty, both components, with autograft",Procedure,SNOMED,standard
+4178315,Revision of hybrid total prosthetic replacement of hip joint using cemented femoral component,Procedure,SNOMED,standard
+4220390,"Revision of total hip arthroplasty, both components, with allograft",Procedure,SNOMED,standard
+4234951,Revision of disarticulation of hip,Procedure,SNOMED,standard
+4266062,Revision of total hip replacement,Procedure,SNOMED,standard
+35625480,Revision of one component of total prosthetic replacement of hip joint not using cement,Procedure,SNOMED,standard
+35625764,Revision of one component of total prosthetic replacement of hip joint using cement,Procedure,SNOMED,standard
+35625794,Revision of hybrid prosthetic replacement of hip joint using cemented acetabular component,Procedure,SNOMED,standard
+37153607,Revision of total replacement of hip joint using mesh,Procedure,SNOMED,standard
+37157457,Revision of total replacement of hip joint using cup-cage,Procedure,SNOMED,standard
+37157470,Revision of total replacement of hip joint using metal augmentation,Procedure,SNOMED,standard
+37157483,Revision of total replacement of hip joint using cage,Procedure,SNOMED,standard
+37157539,Revision of total replacement of hip joint with allograft of bone,Procedure,SNOMED,standard
+37157641,Revision of total replacement of hip joint with bone autograft,Procedure,SNOMED,standard
+37157642,Revision of total replacement of hip joint using impaction bone graft,Procedure,SNOMED,standard
+37164313,Revision of total replacement of hip joint using liner exchange,Procedure,SNOMED,standard
+42536396,Revision of right total hip arthroplasty,Procedure,SNOMED,standard
+42536397,Revision of left total hip arthroplasty,Procedure,SNOMED,standard
+43531427,Revision of internal fixation of wall of acetabulum,Procedure,SNOMED,standard
+44514791,Revision of one component of total prosthetic replacement of hip joint NEC,Procedure,OPCS4,standard
+44514852,Conversion from previous prosthetic replacement of head of femur NEC,Procedure,OPCS4,standard
+44514854,Conversion to prosthetic replacement of head of femur NEC,Procedure,OPCS4,standard
+44790959,Conversion of hip arthroplasty,Procedure,SNOMED,standard
+44809077,Revision of hybrid prosthetic replacement of hip joint using cement,Procedure,SNOMED,standard

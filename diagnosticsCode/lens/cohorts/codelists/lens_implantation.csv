@@ -1,48 +1,48 @@
-concept_id
-1073532
-1389729
-1389730
-1448907
-1448908
-1448909
-1448994
-1448995
-1448996
-2111013
-2111014
-2111015
-2111016
-4026045
-4144741
-4159965
-4168662
-4187207
-4187354
-4188179
-4189295
-4190187
-4190188
-4204016
-4205529
-4210870
-4216271
-4218510
-4223943
-4223944
-4229402
-4288992
-4293870
-4295779
-4302046
-4305674
-4333158
-37153608
-37153977
-37153978
-37171560
-37171561
-40487910
-40488372
-40489856
-40491916
-44508440
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+1073532,Bilateral prosthetic intraocular lens implants,Procedure,SNOMED,standard
+1389729,NA,NA,NA,NA
+1389730,NA,NA,NA,NA
+1448907,Refractive lensectomy with intraocular lens implantation into left eye,Procedure,SNOMED,standard
+1448908,Refractive lensectomy with intraocular lens implantation into right eye,Procedure,SNOMED,standard
+1448909,Bilateral refractive lensectomy with intraocular lens implantation,Procedure,SNOMED,standard
+1448994,Phacoemulsification of cataract with intraocular lens implantation into left eye,Procedure,SNOMED,standard
+1448995,Phacoemulsification of cataract with intraocular lens implantation into right eye,Procedure,SNOMED,standard
+1448996,Bilateral phacoemulsification of cataracts with intraocular lens implantation,Procedure,SNOMED,standard
+2111013,NA,NA,NA,NA
+2111014,NA,NA,NA,NA
+2111015,NA,NA,NA,NA
+2111016,NA,NA,NA,NA
+4026045,Secondary lens implant,Procedure,SNOMED,standard
+4144741,Implantation of prosthetic intraocular lens with suture fixation,Procedure,SNOMED,standard
+4159965,Implantation of posterior chamber intraocular lens,Procedure,SNOMED,standard
+4168662,Bimanual phacoemulsification of lens with intraocular lens implantation,Procedure,SNOMED,standard
+4187207,Phacoemulsification of cataract with intraocular lens implantation,Procedure,SNOMED,standard
+4187354,Refractive lensectomy with intraocular lens implantation,Procedure,SNOMED,standard
+4188179,Implantation of phakic intraocular lens implant,Procedure,SNOMED,standard
+4189295,Implantation of posterior chamber intraocular lens in capsular bag,Procedure,SNOMED,standard
+4190187,Implantation of anterior chamber intraocular lens,Procedure,SNOMED,standard
+4190188,Implantation of posterior chamber intraocular lens in ciliary sulcus,Procedure,SNOMED,standard
+4204016,Intracapsular cataract extraction and insertion of intraocular lens,Procedure,SNOMED,standard
+4205529,Extracapsular cataract extraction and insertion of intraocular lens,Procedure,SNOMED,standard
+4210870,Small incision phacoemulsification of cataract and insertion of intraocular lens,Procedure,SNOMED,standard
+4216271,Presbyopic refractive lensectomy with intraocular lens implantation,Procedure,SNOMED,standard
+4218510,Sutured posterior chamber intraocular lens implantation,Procedure,SNOMED,standard
+4223943,Piggyback lens implantation,Procedure,SNOMED,standard
+4223944,Secondary piggyback lens implantation,Procedure,SNOMED,standard
+4229402,Primary piggyback lens implantation,Procedure,SNOMED,standard
+4288992,Implantation of prosthetic intraocular lens,Procedure,SNOMED,standard
+4293870,Phacoemulsification of lens and insertion of intraocular lens,Procedure,SNOMED,standard
+4295779,Cataract extraction and implantation of intraocular lens,Procedure,SNOMED,standard
+4302046,Bimanual phacoemulsification of cataract with intraocular lens implantation,Procedure,SNOMED,standard
+4305674,Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation,Procedure,SNOMED,standard
+4333158,"Cataract extraction, insertion of intraocular lens and trabeculectomy",Procedure,SNOMED,standard
+37153608,Penetrating keratoplasty with implantation of posterior chamber intraocular lens,Procedure,SNOMED,standard
+37153977,Implantation of prosthetic intraocular lens into left eye,Procedure,SNOMED,standard
+37153978,Implantation of prosthetic intraocular lens into right eye,Procedure,SNOMED,standard
+37171560,Extraction of cataract and implantation of intraocular lens in left eye,Procedure,SNOMED,standard
+37171561,Extraction of cataract and implantation of intraocular lens in right eye,Procedure,SNOMED,standard
+40487910,One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens by inferior temporal route,Procedure,SNOMED,standard
+40488372,One stage intracapsular extraction of lens by inferior temporal route and insertion of prosthetic intraocular lens,Procedure,SNOMED,standard
+40489856,One stage intracapsular extraction of lens with insertion of prosthetic intraocular lens,Procedure,SNOMED,standard
+40491916,One stage extracapsular extraction of lens and insertion of prosthetic intraocular lens,Procedure,SNOMED,standard
+44508440,Insertion of prosthetic replacement for lens NEC,Procedure,OPCS4,standard

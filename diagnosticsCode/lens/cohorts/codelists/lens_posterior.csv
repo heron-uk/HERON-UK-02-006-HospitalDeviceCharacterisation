@@ -1,2 +1,2 @@
-concept_id
-45758993
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+45758993,"Posterior-chamber intraocular lens, pseudophakic",Device,SNOMED,standard

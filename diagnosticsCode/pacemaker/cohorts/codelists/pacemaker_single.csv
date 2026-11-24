@@ -1,3 +1,3 @@
-concept_id
-2615796
-45767379
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+2615796,"Pacemaker, single chamber, rate-responsive (implantable)",Device,HCPCS,standard
+45767379,Single chamber rate responsive implantable cardiac pacemaker,Device,SNOMED,standard

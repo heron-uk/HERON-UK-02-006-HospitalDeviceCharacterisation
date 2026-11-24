@@ -1,297 +1,297 @@
-concept_id
-506573
-506574
-506575
-506576
-506577
-507776
-724616
-724617
-724618
-724619
-724620
-724621
-724622
-724623
-724624
-724643
-724644
-724645
-724681
-724682
-724683
-745641
-745645
-745646
-911827
-1073865
-1242809
-1242814
-1244511
-2106984
-2106985
-2106986
-2106987
-2106988
-2106990
-2106991
-2107002
-2107003
-2107005
-2107006
-2107007
-2107008
-2107010
-2107023
-2107024
-2107025
-2107027
-2107028
-2107029
-2107030
-2107031
-2107042
-2107043
-2107046
-2107049
-2313846
-2313847
-2313848
-2313853
-2313855
-2313860
-2313861
-2313862
-2313863
-2313864
-2313865
-2313866
-2313926
-2313928
-2313929
-2313930
-2313931
-2313932
-2313933
-2313934
-2313938
-2313948
-3655806
-3655970
-4018843
-4018844
-4019139
-4019140
-4019141
-4020233
-4020234
-4020668
-4029763
-4035447
-4036236
-4043871
-4044395
-4046707
-4048694
-4049398
-4049399
-4049400
-4049402
-4049403
-4049990
-4049991
-4049992
-4050573
-4050574
-4050575
-4050710
-4051472
-4051938
-4051939
-4051940
-4055567
-4070936
-4077018
-4078453
-4085558
-4087076
-4087901
-4089511
-4099402
-4099484
-4101854
-4117045
-4117046
-4119917
-4121584
-4125933
-4136517
-4140976
-4140992
-4142917
-4144860
-4144921
-4145787
-4149327
-4150419
-4152132
-4155152
-4155153
-4161527
-4161821
-4164309
-4174419
-4174878
-4175656
-4179363
-4180293
-4180298
-4183537
-4187537
-4198013
-4198540
-4201134
-4202955
-4203562
-4204395
-4205990
-4205991
-4206128
-4209904
-4215909
-4216345
-4223369
-4225150
-4226342
-4228672
-4229766
-4232614
-4235124
-4235141
-4236489
-4237586
-4238833
-4238843
-4239324
-4241102
-4242529
-4243151
-4243335
-4244395
-4246210
-4250607
-4263207
-4270363
-4275747
-4280489
-4280816
-4281670
-4286047
-4287115
-4290930
-4293626
-4294868
-4296792
-4299518
-4300181
-4300434
-4307238
-4308117
-4308455
-4310280
-4315013
-4322483
-4328649
-4329105
-4329391
-4331102
-4331222
-4333083
-35622031
-37016896
-37153707
-37157743
-37157799
-37157813
-37163094
-37164794
-37164796
-37203868
-37203869
-40479221
-40479379
-40479415
-40479833
-40479859
-40481055
-40481058
-40481494
-40481890
-40481942
-40482387
-40482781
-40483201
-40483213
-40483283
-40483670
-40484152
-40485437
-40487117
-40487514
-40488431
-40488929
-40490499
-40491027
-40492022
-40756830
-40756840
-40756942
-40756943
-40756983
-40757045
-42537346
-42537348
-42539500
-42742522
-42742523
-42742524
-42742525
-42742528
-42742529
-42742530
-42872818
-42872827
-42872828
-43528005
-43528006
-44511202
-44511203
-44511207
-44511210
-44511211
-44511216
-44514185
-44782661
-44783080
-44783089
-44783090
-44790271
-44790298
-44790432
-44790501
-44790530
-44790597
-44790598
-44791688
-44791697
-44807913
-44807914
-44809477
-44810457
-44811732
-44816473
-44816475
-45765997
-45766861
-46270961
-46272748
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+506573,Renewal of single chamber intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+506574,Renewal of dual chamber intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+506575,Renewal of single chamber cardiac pacemaker system,Procedure,SNOMED,standard
+506576,Renewal of biventricular cardiac pacemaker,Procedure,SNOMED,standard
+506577,Renewal of dual chamber cardiac pacemaker system,Procedure,SNOMED,standard
+507776,Renewal of biventricular intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+724616,NA,NA,NA,NA
+724617,NA,NA,NA,NA
+724618,NA,NA,NA,NA
+724619,NA,NA,NA,NA
+724620,NA,NA,NA,NA
+724621,NA,NA,NA,NA
+724622,NA,NA,NA,NA
+724623,NA,NA,NA,NA
+724624,NA,NA,NA,NA
+724643,NA,NA,NA,NA
+724644,NA,NA,NA,NA
+724645,NA,NA,NA,NA
+724681,NA,NA,NA,NA
+724682,NA,NA,NA,NA
+724683,NA,NA,NA,NA
+745641,NA,NA,NA,NA
+745645,NA,NA,NA,NA
+745646,NA,NA,NA,NA
+911827,Other specified other cardiac pacemaker system introduced through vein,Procedure,OPCS4,standard
+1073865,Fluoroscopy guided implantation of cardiac resynchronization defibrillator system,Procedure,SNOMED,standard
+1242809,Repair of cardiac pacemaker pocket,Procedure,SNOMED,standard
+1242814,Electrophysiologic evaluation of cardioverter defibrillator lead,Procedure,SNOMED,standard
+1244511,Debridement of pacemaker pocket,Procedure,SNOMED,standard
+2106984,NA,NA,NA,NA
+2106985,NA,NA,NA,NA
+2106986,NA,NA,NA,NA
+2106987,NA,NA,NA,NA
+2106988,NA,NA,NA,NA
+2106990,NA,NA,NA,NA
+2106991,NA,NA,NA,NA
+2107002,NA,NA,NA,NA
+2107003,NA,NA,NA,NA
+2107005,NA,NA,NA,NA
+2107006,NA,NA,NA,NA
+2107007,NA,NA,NA,NA
+2107008,NA,NA,NA,NA
+2107010,NA,NA,NA,NA
+2107023,NA,NA,NA,NA
+2107024,NA,NA,NA,NA
+2107025,NA,NA,NA,NA
+2107027,NA,NA,NA,NA
+2107028,NA,NA,NA,NA
+2107029,NA,NA,NA,NA
+2107030,NA,NA,NA,NA
+2107031,NA,NA,NA,NA
+2107042,NA,NA,NA,NA
+2107043,NA,NA,NA,NA
+2107046,NA,NA,NA,NA
+2107049,NA,NA,NA,NA
+2313846,NA,NA,NA,NA
+2313847,NA,NA,NA,NA
+2313848,NA,NA,NA,NA
+2313853,NA,NA,NA,NA
+2313855,NA,NA,NA,NA
+2313860,NA,NA,NA,NA
+2313861,NA,NA,NA,NA
+2313862,NA,NA,NA,NA
+2313863,NA,NA,NA,NA
+2313864,NA,NA,NA,NA
+2313865,NA,NA,NA,NA
+2313866,NA,NA,NA,NA
+2313926,NA,NA,NA,NA
+2313928,NA,NA,NA,NA
+2313929,NA,NA,NA,NA
+2313930,NA,NA,NA,NA
+2313931,NA,NA,NA,NA
+2313932,NA,NA,NA,NA
+2313933,NA,NA,NA,NA
+2313934,NA,NA,NA,NA
+2313938,NA,NA,NA,NA
+2313948,NA,NA,NA,NA
+3655806,Cardiac resynchronization therapy,Procedure,SNOMED,standard
+3655970,Rate-adaptive pacing,Procedure,SNOMED,standard
+4018843,Maintenance of battery of intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+4018844,Implantation of permanent intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4019139,Introduction of cardiac pacemaker system via vein,Procedure,SNOMED,standard
+4019140,Complete removal of implanted cardiac pacemaker system,Procedure,SNOMED,standard
+4019141,Implantation of intravenous atrial overdrive pacemaker,Procedure,SNOMED,standard
+4020233,Implantation of intravenous fixed-rate cardiac pacemaker,Procedure,SNOMED,standard
+4020234,Implantation of intravenous pacemaker for atrial fibrillation,Procedure,SNOMED,standard
+4020668,Implantation of intravenous triggered cardiac pacemaker,Procedure,SNOMED,standard
+4029763,Check artificial pacemaker for electrode impedance,Procedure,SNOMED,standard
+4035447,Implantation of rate-responsive cardiac single-chamber device,Procedure,SNOMED,standard
+4036236,Repositioning of permanent transvenous electrodes,Procedure,SNOMED,standard
+4043871,"Implantation of electrode into cardiac atrium, replacement",Procedure,SNOMED,standard
+4044395,Reposition of cardiac pacemaker pocket,Procedure,SNOMED,standard
+4046707,Replacement of permanent transvenous electrodes,Procedure,SNOMED,standard
+4048694,Electronic analysis of internal pacemaker system,Procedure,SNOMED,standard
+4049398,Temporary cardiac pacemaker procedure,Procedure,SNOMED,standard
+4049399,Insertion of epicardial electrode for temporary cardiac pacing,Procedure,SNOMED,standard
+4049400,Indirect temporary cardiac pacemaker procedure,Procedure,SNOMED,standard
+4049402,Transthoracic cardiac pacing procedure,Procedure,SNOMED,standard
+4049403,Maintenance procedure for cardiac pacemaker system,Procedure,SNOMED,standard
+4049990,Transesophageal cardiac pacing procedure,Procedure,SNOMED,standard
+4049991,Reprogramming of cardiac pacemaker,Procedure,SNOMED,standard
+4049992,Removal of cardiac pacing electrode,Procedure,SNOMED,standard
+4050573,Direct temporary cardiac pacemaker procedure,Procedure,SNOMED,standard
+4050574,Insertion of permanent epicardial cardiac pacemaker system,Procedure,SNOMED,standard
+4050575,Removal of implanted cardiac pacemaker system or components,Procedure,SNOMED,standard
+4050710,Repair of cardiac pacemaker,Procedure,SNOMED,standard
+4051472,Replacement of electronic heart device battery,Procedure,SNOMED,standard
+4051938,Cardiac pacemaker procedure,Procedure,SNOMED,standard
+4051939,Insertion of endocardial electrode for temporary cardiac pacing,Procedure,SNOMED,standard
+4051940,Permanent cardiac pacemaker procedure,Procedure,SNOMED,standard
+4055567,Removal of cardiac pacemaker from epicardium with replacement of atrial and/or ventricular leads,Procedure,SNOMED,standard
+4070936,Relocation of cardiac pacemaker pocket to new site in subcutaneous tissue,Procedure,SNOMED,standard
+4077018,Replacement of transvenous atrial pacemaker electrode leads,Procedure,SNOMED,standard
+4078453,General maintenance of cardiac pacemaker,Procedure,SNOMED,standard
+4085558,Insertion of temporary cardiac pacemaker,Procedure,SNOMED,standard
+4087076,Check artificial pacemaker for waveform artifact,Procedure,SNOMED,standard
+4087901,Cardiac pacing,Procedure,SNOMED,standard
+4089511,Demand pacing,Procedure,SNOMED,standard
+4099402,Insertion of intracardiac pacemaker,Procedure,SNOMED,standard
+4099484,Removal of transvenous electrodes,Procedure,SNOMED,standard
+4101854,Removal of electronic heart device pulse generator,Procedure,SNOMED,standard
+4117045,Atrial overdrive pacing,Procedure,SNOMED,standard
+4117046,Fixed-rate cardiac pacemaker,Procedure,SNOMED,standard
+4119917,Emergency cardiac pacemaker,Procedure,SNOMED,standard
+4121584,Removal of IV endocardial electrode,Procedure,SNOMED,standard
+4125933,Insertion of IV endocardial electrode,Procedure,SNOMED,standard
+4136517,Replacement of transvenous ventricular pacemaker electrode leads,Procedure,SNOMED,standard
+4140976,Check artificial pacemaker for amperage threshold,Procedure,SNOMED,standard
+4140992,Insertion of permanent atrial pacemaker with transvenous electrodes,Procedure,SNOMED,standard
+4142917,"Insertion of permanent pacemaker with transvenous electrodes, AV sequential",Procedure,SNOMED,standard
+4144860,Implantation of emergency intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4144921,Implantation of cardiac pacemaker,Procedure,SNOMED,standard
+4145787,Replacement of IV endocardial electrode,Procedure,SNOMED,standard
+4149327,"Replacement of electronic heart device, pulse generator",Procedure,SNOMED,standard
+4150419,Implantation of intravenous dual chamber permanent cardiac pacemaker,Procedure,SNOMED,standard
+4152132,"Electronic wave or pacemaker analysis, remote",Procedure,SNOMED,standard
+4155152,Magnet induced pacing,Procedure,SNOMED,standard
+4155153,Atrioventricular sequential pacing,Procedure,SNOMED,standard
+4161527,Removal of temporary cardiac pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard
+4161821,Ventricular pacing lead positioned,Procedure,SNOMED,standard
+4164309,"Implantation of electrode into cardiac ventricle, replacement",Procedure,SNOMED,standard
+4174419,Maintenance of temporary cardiac pacemaker settings,Procedure,SNOMED,standard
+4174878,Maintenance of temporary cardiac pacemaker system,Procedure,SNOMED,standard
+4175656,Maintenance of temporary epicardial cardiac pacemaker system,Procedure,SNOMED,standard
+4179363,Implantation of cardiac resynchronization therapy implantable pacemaker,Procedure,SNOMED,standard
+4180293,Implantation of intravenous single chamber cardiac pacemaker system,Procedure,SNOMED,standard
+4180298,Implantation of intravenous cardiac resynchronization therapy implantable pacemaker,Procedure,SNOMED,standard
+4183537,Initial implantation of cardiac single-chamber device,Procedure,SNOMED,standard
+4187537,Removal of cardiac pacemaker electrodes with replacement,Procedure,SNOMED,standard
+4198013,Replacement of permanent cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+4198540,Electronic analysis of dual chamber internal cardiac pacemaker system with reprogramming,Procedure,SNOMED,standard
+4201134,Electronic analysis of dual chamber internal cardiac pacemaker system without reprogramming,Procedure,SNOMED,standard
+4202955,Implantation of complex one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4203562,Reimplantation of cardiac pacemaker electrode,Procedure,SNOMED,standard
+4204395,"Insertion of permanent pacemaker with transvenous electrodes, ventricular",Procedure,SNOMED,standard
+4205990,Implantation of simple one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4205991,Implantation of complex two wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4206128,Implantation of temporary intravenous cardiac pacemaker,Procedure,SNOMED,standard
+4209904,Revision of pacemaker electrode leads,Procedure,SNOMED,standard
+4215909,Artificial pacemaker rate check,Procedure,SNOMED,standard
+4216345,Replacement of cardiac pacemaker with single chamber pacemaker not specified as rate responsive,Procedure,SNOMED,standard
+4223369,"Electronic analysis of internal pacemaker system, complete",Procedure,SNOMED,standard
+4225150,Intraventricular pacing,Procedure,SNOMED,standard
+4226342,Bundle of His pacing,Procedure,SNOMED,standard
+4228672,Removal of cardioverter/defibrillator pulse generator without replacement,Procedure,SNOMED,standard
+4229766,Replacement of temporary transvenous pacemaker system,Procedure,SNOMED,standard
+4232614,Check artificial pacemaker for voltage threshold,Procedure,SNOMED,standard
+4235124,"Replacement of electronic heart device, transvenous electrode",Procedure,SNOMED,standard
+4235141,Check artificial pacemaker,Procedure,SNOMED,standard
+4236489,Intraoperative cardiac pacing and mapping,Procedure,SNOMED,standard
+4237586,Removal of electronic heart device battery,Procedure,SNOMED,standard
+4238833,Removal of epicardial electrodes,Procedure,SNOMED,standard
+4238843,"Implantation of electrode into cardiac atrium and ventricle, replacement",Procedure,SNOMED,standard
+4239324,Repair of cardiac pulse generator,Procedure,SNOMED,standard
+4241102,Temporary transcutaneous pacing,Procedure,SNOMED,standard
+4242529,Removal of cardiac pacemaker and replacement with single-chamber cardiac device,Procedure,SNOMED,standard
+4243151,Repair of pacemaker with replacement of pulse generator,Procedure,SNOMED,standard
+4243335,Initial implantation of cardiac dual-chamber device,Procedure,SNOMED,standard
+4244395,Temporary insertion of pacemaker into atrium by transvenous route,Procedure,SNOMED,standard
+4246210,"Implantation of cardiac dual-chamber device, replacement",Procedure,SNOMED,standard
+4250607,Replacement of transvenous atrial and ventricular pacemaker electrode leads,Procedure,SNOMED,standard
+4263207,Repositioning of cardioverter/defibrillator leads,Procedure,SNOMED,standard
+4270363,Removal of cardiac pacemaker,Procedure,SNOMED,standard
+4275747,Subcutaneous implantation of cardiac pacemaker,Procedure,SNOMED,standard
+4280489,Check artificial pacemaker by slew rate check,Procedure,SNOMED,standard
+4280816,Repositioning of cardioverter/defibrillator pulse generator,Procedure,SNOMED,standard
+4281670,Implantation of cardiac temporary transvenous pacemaker system during and immediately following cardiac surgery,Procedure,SNOMED,standard
+4286047,Insertion of permanent transvenous electrodes,Procedure,SNOMED,standard
+4287115,Intra-atrial pacing,Procedure,SNOMED,standard
+4290930,Insertion of pacemaker pulse generator,Procedure,SNOMED,standard
+4293626,Replacement of cardiac pacemaker device with dual-chamber device,Procedure,SNOMED,standard
+4294868,Renewal of intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+4296792,"Removal of cardiac pacemaker with replacement by single-chamber device, rate-responsive",Procedure,SNOMED,standard
+4299518,Removal of pacemaker electrode leads without replacement,Procedure,SNOMED,standard
+4300181,Revision of permanent cardiac pacemaker device,Procedure,SNOMED,standard
+4300434,Induction of arrhythmia by electrical pacing,Procedure,SNOMED,standard
+4307238,Creation of cardiac pacemaker pocket new site in subcutaneous tissue,Procedure,SNOMED,standard
+4308117,Relocation of automatic implantable cardioverter/defibrillator,Procedure,SNOMED,standard
+4308455,Maintenance of temporary epicardial cardiac pacemaker settings,Procedure,SNOMED,standard
+4310280,Maintenance of permanent cardiac pacemaker settings,Procedure,SNOMED,standard
+4315013,Repair of pacemaker electrodes,Procedure,SNOMED,standard
+4322483,Removal of epicardial electrodes with replacement of epicardial lead,Procedure,SNOMED,standard
+4328649,Reposition of permanent cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+4329105,Fluoroscopy of heart for checking of permanent cardiac pacemaker position,Procedure,SNOMED,standard
+4329391,Removal of cardiac pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard
+4331102,Management of permanent pacemaker,Procedure,SNOMED,standard
+4331222,Insertion of temporary cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+4333083,Fluoroscopy of heart for checking of cardiac pacemaker electrode position,Procedure,SNOMED,standard
+35622031,Intraoperative insertion of cardiac pacemaker,Procedure,SNOMED,standard
+37016896,Fluoroscopy guided removal of cardiac pacemaker,Procedure,SNOMED,standard
+37153707,Implantation of cardiac resynchronization defibrillator lead,Procedure,SNOMED,standard
+37157743,Implantation of leadless cardiac pacemaker,Procedure,SNOMED,standard
+37157799,Implantation of subcutaneous cardioverter defibrillator lead,Procedure,SNOMED,standard
+37157813,Implantation of cardiac resynchronization defibrillator system,Procedure,SNOMED,standard
+37163094,Removal of leadless cardiac pacemaker,Procedure,SNOMED,standard
+37164794,Replacement of cardiac resynchronization therapy defibrillator pulse generator,Procedure,SNOMED,standard
+37164796,Replacement of leadless cardiac pacemaker,Procedure,SNOMED,standard
+37203868,Implantation of permanent cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+37203869,Implantation of cardiac biventricular permanent pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+40479221,Surgical removal of single chamber pacing cardioverter defibrillator electrode by transthoracic approach,Procedure,SNOMED,standard
+40479379,Insertion of single chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard
+40479415,Insertion of transvenous electrode of dual chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard
+40479833,Insertion of single chamber pacing cardioverter defibrillator pulse generator and transvenous electrode,Procedure,SNOMED,standard
+40479859,Replacement of cardiac pacemaker,Procedure,SNOMED,standard
+40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,standard
+40481058,Surgical removal of transvenous electrode of dual chamber pacing cardioverter defibrillator pulse generator by transthoracic approach,Procedure,SNOMED,standard
+40481494,Replacement of dual chamber pulse generator,Procedure,SNOMED,standard
+40481890,Surgical removal of transvenous electrode of dual chamber pacing cardioverter defibrillator pulse generator by transvenous approach,Procedure,SNOMED,standard
+40481942,Insertion of permanent transvenous electrode of dual chamber pulse generator,Procedure,SNOMED,standard
+40482387,Insertion of temporary transvenous electrode of dual chamber cardiac pulse generator,Procedure,SNOMED,standard
+40482781,Surgical removal of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator by transthoracic approach,Procedure,SNOMED,standard
+40483201,Insertion of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard
+40483213,Insertion of single chamber cardiac pacemaker pulse generator,Procedure,SNOMED,standard
+40483283,Insertion of temporary transvenous electrode of single chamber pacing pulse generator,Procedure,SNOMED,standard
+40483670,Replacement of temporary transvenous electrode of dual chamber pulse generator,Procedure,SNOMED,standard
+40484152,Surgical removal of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator by transvenous approach,Procedure,SNOMED,standard
+40485437,Insertion of dual chamber cardiac pacemaker pulse generator,Procedure,SNOMED,standard
+40487117,Insertion of permanent cardiac pacemaker pulse generator and electrode,Procedure,SNOMED,standard
+40487514,Removal of cardiac biventricular permanent pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+40488431,Interrogation of cardiac pacemaker,Procedure,SNOMED,standard
+40488929,Repositioning of cardiac pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard
+40490499,Maintenance of intravenous cardiac pacemaker system,Procedure,SNOMED,standard
+40491027,Thoracotomy and removal of cardiac pacemaker electrodes,Procedure,SNOMED,standard
+40492022,Replacement of cardiac biventricular permanent pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+40756830,NA,NA,NA,NA
+40756840,NA,NA,NA,NA
+40756942,NA,NA,NA,NA
+40756943,NA,NA,NA,NA
+40756983,NA,NA,NA,NA
+40757045,NA,NA,NA,NA
+42537346,Revision of internal cardiac defibrillator lead using fluoroscopic guidance,Procedure,SNOMED,standard
+42537348,Revision of biventricular permanent pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard
+42539500,Revision of cardiac biventricular implantable cardioverter defibrillator lead using fluoroscopic guidance,Procedure,SNOMED,standard
+42742522,NA,NA,NA,NA
+42742523,NA,NA,NA,NA
+42742524,NA,NA,NA,NA
+42742525,NA,NA,NA,NA
+42742528,NA,NA,NA,NA
+42742529,NA,NA,NA,NA
+42742530,NA,NA,NA,NA
+42872818,Maintenance of battery of cardiac pacemaker system,Procedure,SNOMED,standard
+42872827,Replacement of pulse generator of permanent cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard
+42872828,Replacement of pulse generator of implantable cardioverter defibrillator using fluoroscopic guidance,Procedure,SNOMED,standard
+43528005,NA,NA,NA,NA
+43528006,NA,NA,NA,NA
+44511202,Renewal of intravenous cardiac pacemaker system NEC,Procedure,OPCS4,standard
+44511203,Removal of intravenous cardiac pacemaker system,Procedure,OPCS4,standard
+44511207,Other specified cardiac pacemaker system introduced through vein,Procedure,OPCS4,standard
+44511210,Resiting of lead of cardiac pacemaker system NEC,Procedure,OPCS4,standard
+44511211,Renewal of cardiac pacemaker system NEC,Procedure,OPCS4,standard
+44511216,Other specified other cardiac pacemaker system,Procedure,OPCS4,standard
+44514185,Other specified pacemaker testing,Procedure,OPCS4,standard
+44782661,Insertion of programmable cardiac pacemaker,Procedure,SNOMED,standard
+44783080,Removal of single-chamber cardiac pacemaker with replacement by dual-chamber cardiac pacemaker,Procedure,SNOMED,standard
+44783089,Implantation of cardiac defibrillator lead,Procedure,SNOMED,standard
+44783090,Insertion of pulse generator of implantable cardioverter defibrillator,Procedure,SNOMED,standard
+44790271,Pacemaker testing,Procedure,SNOMED,standard
+44790298,Implantation of single chamber cardiac pacemaker system,Procedure,SNOMED,standard
+44790432,Implantation of intravenous dual chamber cardiac pacemaker system,Procedure,SNOMED,standard
+44790501,Implantation of dual chamber cardiac pacemaker system,Procedure,SNOMED,standard
+44790530,Distant pacemaker test,Procedure,SNOMED,standard
+44790597,Temporary transvenous pacing,Procedure,SNOMED,standard
+44790598,Transvenous pacemaker sensitivity measurement,Procedure,SNOMED,standard
+44791688,Electrical capture by temporary transvenous pacing,Procedure,SNOMED,standard
+44791697,Mechanical capture by temporary transvenous pacing,Procedure,SNOMED,standard
+44807913,Fluoroscopy guided insertion of permanent biventricular pacemaker lead,Procedure,SNOMED,standard
+44807914,Fluoroscopy guided insertion of biventricular implantable cardioverter defibrillator lead,Procedure,SNOMED,standard
+44809477,Fluoroscopy guided removal of cardiac pacemaker lead using laser sheath,Procedure,SNOMED,standard
+44810457,Repositioning of lead of subcutaneous cardioverter defibrillator,Procedure,SNOMED,standard
+44811732,Fluoroscopy guided insertion of cardiac single chamber permanent pacemaker,Procedure,SNOMED,standard
+44816473,NA,NA,NA,NA
+44816475,NA,NA,NA,NA
+45765997,Fluoroscopy guided cardiac pacemaker procedure,Procedure,SNOMED,standard
+45766861,Revision of cardiac pacemaker electrode using fluoroscopic guidance,Procedure,SNOMED,standard
+46270961,Percutaneous removal of cardiac pacemaker electrode,Procedure,SNOMED,standard
+46272748,Removal of implantable cardiac pacemaker,Procedure,SNOMED,standard

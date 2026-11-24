@@ -1,278 +1,278 @@
-concept_id
-372315
-372905
-373769
-374642
-374646
-375256
-375545
-376399
-376400
-376401
-376973
-376979
-377274
-377285
-377864
-378534
-379811
-380101
-380513
-380722
-381279
-381295
-381392
-381566
-432895
-434145
-436118
-436976
-438749
-439297
-441006
-441846
-443569
-443791
-604630
-604912
-609308
-619198
-760554
-760555
-761582
-761583
-761584
-761585
-761586
-761587
-761588
-761589
-761590
-761591
-761594
-761595
-761596
-761597
-761598
-761599
-761600
-761601
-761602
-761603
-764823
-764824
-764825
-764826
-765090
-765241
-765242
-765243
-765357
-765527
-765724
-1077010
-1077011
-1077012
-1077058
-1077059
-1077410
-1245742
-1245743
-1245744
-1246393
-1246397
-1246683
-1246701
-1340271
-1340287
-1449315
-3654993
-3655645
-3656862
-3656920
-3656946
-3657007
-3657025
-3657068
-3657086
-3657138
-3657139
-3657141
-3657147
-3662352
-4001501
-4006784
-4007451
-4007944
-4008296
-4048060
-4048386
-4068699
-4069800
-4069803
-4070185
-4081026
-4081141
-4081142
-4081644
-4081645
-4083471
-4088107
-4099981
-4100720
-4100889
-4102696
-4102697
-4103579
-4105159
-4105600
-4109424
-4109544
-4109548
-4130588
-4152554
-4154554
-4157030
-4161420
-4166557
-4194065
-4197734
-4199963
-4210432
-4216348
-4219330
-4220818
-4221495
-4225524
-4225656
-4230391
-4230930
-4259620
-4280227
-4301387
-4317977
-4319588
-4319589
-4334129
-4334130
-4334867
-4334868
-4334869
-4334870
-35624213
-35625717
-35625718
-35625719
-36675066
-36675714
-36676498
-36676675
-36676682
-36680594
-36684615
-36684665
-36684670
-36684678
-36684731
-36684736
-36684791
-36684796
-36684801
-36684802
-36684803
-36684804
-36685057
-36685058
-36712945
-36712946
-36712947
-36713345
-36713473
-36713528
-36713529
-36713803
-36713858
-36714026
-36714335
-36715121
-36715372
-36715408
-36715527
-36716387
-36716388
-36716389
-36716390
-36716448
-36717554
-37108933
-37108934
-37108935
-37108936
-37111463
-37111464
-37111650
-37111654
-37116290
-37117168
-37155829
-37160969
-37161409
-37163689
-37163690
-37163691
-37163698
-37163794
-37163797
-37164681
-37164682
-37165629
-37166063
-37166820
-37168350
-37169187
-37169188
-37169189
-37171230
-37171272
-37171332
-37171350
-37207888
-37207948
-37207995
-37207996
-37208004
-37208005
-37208006
-37208007
-37208008
-37208009
-37208213
-37208214
-37208215
-37208216
-37209532
-37309693
-37309694
-37310624
-37310630
-37310640
-37311300
-37311301
-37395848
-37395915
-37396246
-37396247
-37396330
-37396376
-40479994
-40482507
-40482880
-40487893
-44783427
-44783428
-45757567
-45757716
-45757718
-45765456
-45770919
-45770920
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+372315,Anterior subcapsular polar cataract,Condition,SNOMED,standard
+372905,Myotonic cataract,Condition,SNOMED,standard
+373769,Nuclear cataract,Condition,SNOMED,standard
+374642,Total traumatic cataract,Condition,SNOMED,standard
+374646,Toxic cataract,Condition,SNOMED,standard
+375256,Anterior subcapsular polar senile cataract,Condition,SNOMED,standard
+375545,Cataract,Condition,SNOMED,standard
+376399,Incipient cataract,Condition,SNOMED,standard
+376400,Combined form of senile cataract,Condition,SNOMED,standard
+376401,Traumatic cataract,Condition,SNOMED,standard
+376973,Cataract due to ocular disease,Condition,SNOMED,standard
+376979,Cataract due to diabetes mellitus,Condition,SNOMED,standard
+377274,Nonsenile cataract,Condition,SNOMED,standard
+377285,Mature cataract,Condition,SNOMED,standard
+377864,Cataract associated with radiation,Condition,SNOMED,standard
+378534,Cortical and zonular cataract,Condition,SNOMED,standard
+379811,Hypermature cataract,Condition,SNOMED,standard
+380101,Partially resolved traumatic cataract,Condition,SNOMED,standard
+380513,Congenital cataract,Condition,SNOMED,standard
+380722,Localized traumatic opacity,Condition,SNOMED,standard
+381279,Tetanic cataract,Condition,SNOMED,standard
+381295,Senile cataract,Condition,SNOMED,standard
+381392,Congenital subcapsular cataract,Condition,SNOMED,standard
+381566,Cataract due to inflammatory disorder,Condition,SNOMED,standard
+432895,Cortical senile cataract,Condition,SNOMED,standard
+434145,Embryonal nuclear cataract,Condition,SNOMED,standard
+436118,After-cataract with vision obscured following extraction of cataract,Condition,SNOMED,standard
+436976,Posterior subcapsular polar cataract,Condition,SNOMED,standard
+438749,Posterior subcapsular polar senile cataract,Condition,SNOMED,standard
+439297,Nuclear senile cataract,Condition,SNOMED,standard
+441006,Soemmerring's ring,Condition,SNOMED,standard
+441846,After-cataract not obscuring vision following extraction of cataract,Condition,SNOMED,standard
+443569,Cataract associated with infrared radiation,Condition,SNOMED,standard
+443791,Congenital capsular cataract,Condition,SNOMED,standard
+604630,Hutterite type cataract,Condition,SNOMED,standard
+604912,Pulverulent cataract,Condition,SNOMED,standard
+609308,Cataract due to drug induced diabetes mellitus,Condition,SNOMED,standard
+619198,Coralliform cataract,Condition,SNOMED,standard
+760554,Age-related cataract of left eye,Condition,SNOMED,standard
+760555,Bilateral age-related cataract,Condition,SNOMED,standard
+761582,Cataract of lens capsule of left eye,Condition,SNOMED,standard
+761583,Secondary cataract of bilateral eyes with vision obscured,Condition,SNOMED,standard
+761584,Secondary cataract of right eye with vision obscured,Condition,SNOMED,standard
+761585,Secondary cataract of left eye with vision obscured,Condition,SNOMED,standard
+761586,Secondary cataract of left eye,Condition,SNOMED,standard
+761587,Secondary cataract of right eye,Condition,SNOMED,standard
+761588,Anterior subcapsular polar cataract of left eye,Condition,SNOMED,standard
+761589,Anterior subcapsular polar cataract of right eye,Condition,SNOMED,standard
+761590,Anterior subcapsular cataract of right eye,Condition,SNOMED,standard
+761591,Anterior subcapsular cataract of bilateral eyes,Condition,SNOMED,standard
+761594,Cataract of right eye due to ocular disease,Condition,SNOMED,standard
+761595,Cataract of left eye due to ocular disease,Condition,SNOMED,standard
+761596,Cataract of left eye due to inflammatory disorder,Condition,SNOMED,standard
+761597,Cataract of right eye due to inflammatory disorder,Condition,SNOMED,standard
+761598,Cataract of bilateral eyes due to inflammatory disorder,Condition,SNOMED,standard
+761599,Non age-related cataract of left eye,Condition,SNOMED,standard
+761600,Non age-related cataract of bilateral eyes,Condition,SNOMED,standard
+761601,Total cataract of lens of right eye,Condition,SNOMED,standard
+761602,Total cataract of lens of left eye,Condition,SNOMED,standard
+761603,Total cataract of lens of bilateral eyes,Condition,SNOMED,standard
+764823,Bilateral age-related nuclear cataracts,Condition,SNOMED,standard
+764824,Age-related nuclear cataract of right eye,Condition,SNOMED,standard
+764825,Bilateral incipient cataracts,Condition,SNOMED,standard
+764826,Incipient cataract of left eye,Condition,SNOMED,standard
+765090,Cataract of lens capsule of right eye,Condition,SNOMED,standard
+765241,Cataract of lens capsule of bilateral eyes,Condition,SNOMED,standard
+765242,Anterior subcapsular cataract of left eye,Condition,SNOMED,standard
+765243,Non age-related cataract of right eye,Condition,SNOMED,standard
+765357,Age-related cataract of right eye,Condition,SNOMED,standard
+765527,Age-related nuclear cataract of left eye,Condition,SNOMED,standard
+765724,Incipient cataract of right eye,Condition,SNOMED,standard
+1077010,Right total traumatic cataract,Condition,SNOMED,standard
+1077011,Left total traumatic cataract,Condition,SNOMED,standard
+1077012,Bilateral total traumatic cataract,Condition,SNOMED,standard
+1077058,Partially resolved traumatic cataract of right eye,Condition,SNOMED,standard
+1077059,Bilateral partially resolved traumatic cataracts,Condition,SNOMED,standard
+1077410,Partially resolved traumatic cataract of left eye,Condition,SNOMED,standard
+1245742,Complicated cataract of bilateral eyes,Condition,SNOMED,standard
+1245743,Complicated cataract of left eye,Condition,SNOMED,standard
+1245744,Complicated cataract of right eye,Condition,SNOMED,standard
+1246393,Congenital zonular cataract of right eye,Condition,SNOMED,standard
+1246397,Congenital zonular cataract of left eye,Condition,SNOMED,standard
+1246683,Cataract of right eye caused by medication,Condition,SNOMED,standard
+1246701,Cataract of left eye caused by medication,Condition,SNOMED,standard
+1340271,Exacerbation of cataract,Condition,OMOP Extension,standard
+1340287,Exacerbation of congenital cataract,Condition,OMOP Extension,standard
+1449315,"Intellectual disability, early-onset cataract, microcephaly syndrome",Condition,SNOMED,standard
+3654993,Early opacity of lens,Condition,SNOMED,standard
+3655645,Localized cataract opacities due to and following traumatic injury,Condition,SNOMED,standard
+3656862,Cataract of right eye caused by corticosteroid,Condition,SNOMED,standard
+3656920,Congenital nuclear cataract of right eye,Condition,SNOMED,standard
+3656946,Cataract of left eye caused by corticosteroid,Condition,SNOMED,standard
+3657007,Congenital nuclear cataract of left eye,Condition,SNOMED,standard
+3657025,Bilateral cataract of eyes due to and following trauma,Condition,SNOMED,standard
+3657068,Bilateral congenital combined form cataract of eyes,Condition,SNOMED,standard
+3657086,Bilateral congenital zonular cataract,Condition,SNOMED,standard
+3657138,Congenital cortical cataract of left eye,Condition,SNOMED,standard
+3657139,Congenital cortical cataract of right eye,Condition,SNOMED,standard
+3657141,Bilateral cataract of eyes caused by drug,Condition,SNOMED,standard
+3657147,Bilateral congenital cortical cataract of eyes,Condition,SNOMED,standard
+3662352,Bilateral anterior subcapsular polar cataract,Condition,SNOMED,standard
+4001501,Calcified cataract,Condition,SNOMED,standard
+4006784,Adherent cataract,Condition,SNOMED,standard
+4007451,Axial cataract,Condition,SNOMED,standard
+4007944,Stationary cataract,Condition,SNOMED,standard
+4008296,Coronary cataract,Condition,SNOMED,standard
+4048060,Partial cataract,Condition,SNOMED,standard
+4048386,"Osteogenesis imperfecta, recessive perinatal lethal, with microcephaly AND cataracts",Condition,SNOMED,standard
+4068699,Congenital zonular cataract,Condition,SNOMED,standard
+4069800,Congenital lamellar cataract,Condition,SNOMED,standard
+4069803,Congenital membranous cataract,Condition,SNOMED,standard
+4070185,Congenital blue dot cataract,Condition,SNOMED,standard
+4081026,Anterior lens opacities,Condition,SNOMED,standard
+4081141,Polychromatic posterior subcapsular lens opacities,Condition,SNOMED,standard
+4081142,Cupuliform cataract,Condition,SNOMED,standard
+4081644,Anterior capsular lens opacities,Condition,SNOMED,standard
+4081645,Anterior subcapsular lens opacities,Condition,SNOMED,standard
+4083471,Cortical lens opacities,Condition,SNOMED,standard
+4088107,Shrunken cataract,Condition,SNOMED,standard
+4099981,Congenital sutural cataract,Condition,SNOMED,standard
+4100720,Congenital anterior polar cataract,Condition,SNOMED,standard
+4100889,Congenital polar cataract,Condition,SNOMED,standard
+4102696,Congenital posterior polar cataract,Condition,SNOMED,standard
+4102697,Rubella cataract,Condition,SNOMED,standard
+4103579,Cortical cataract,Condition,SNOMED,standard
+4105159,Atopic cataract,Condition,SNOMED,standard
+4105600,Congenital total cataract,Condition,SNOMED,standard
+4109424,Lamellar zonular cataract,Condition,SNOMED,standard
+4109544,"Total, mature senile cataract",Condition,SNOMED,standard
+4109548,Drug-induced cataract,Condition,SNOMED,standard
+4130588,Morgagnian cataract,Condition,SNOMED,standard
+4152554,Mixed type cataract,Condition,SNOMED,standard
+4154554,Suture tip cataract,Condition,SNOMED,standard
+4157030,Mittendorf dot,Condition,SNOMED,standard
+4161420,Juvenile cataract,Condition,SNOMED,standard
+4166557,Intraocular lens intralenticular opacification,Condition,SNOMED,standard
+4194065,Lowe syndrome,Condition,SNOMED,standard
+4197734,Posterior subcapsular cataract,Condition,SNOMED,standard
+4199963,Anterior subcapsular cataract,Condition,SNOMED,standard
+4210432,Immature cortical cataract,Condition,SNOMED,standard
+4216348,Marinesco-Sjögren syndrome,Condition,SNOMED,standard
+4219330,Combined form of nonsenile cataract,Condition,SNOMED,standard
+4220818,Infantile cataract,Condition,SNOMED,standard
+4221495,Cataract due to diabetes mellitus type 2,Condition,SNOMED,standard
+4225524,Corticosteroid induced cataract,Condition,SNOMED,standard
+4225656,Cataract due to diabetes mellitus type 1,Condition,SNOMED,standard
+4230391,Nuclear sclerotic cataract,Condition,SNOMED,standard
+4230930,Punctate cataract,Condition,SNOMED,standard
+4259620,Anterior capsule opacification following extraction of cataract,Condition,SNOMED,standard
+4280227,Congenital cortical cataract,Condition,SNOMED,standard
+4301387,Cataracta brunescens,Condition,SNOMED,standard
+4317977,Bilateral cataracts,Condition,SNOMED,standard
+4319588,Subcapsular cataract,Condition,SNOMED,standard
+4319589,Intumescent cataract,Condition,SNOMED,standard
+4334129,Concussion cataract,Condition,SNOMED,standard
+4334130,Elschnig's pearls,Condition,SNOMED,standard
+4334867,Cataract following rupture of capsule,Condition,SNOMED,standard
+4334868,Cataract in systemic disorders,Condition,SNOMED,standard
+4334869,Cataract in hypoparathyroidism,Condition,SNOMED,standard
+4334870,Malnutrition-dehydration cataract,Condition,SNOMED,standard
+35624213,Secondary cataract,Condition,SNOMED,standard
+35625717,Cataract of right eye due to diabetes mellitus,Condition,SNOMED,standard
+35625718,Cataract of left eye due to diabetes mellitus,Condition,SNOMED,standard
+35625719,Diabetic cataract of bilateral eyes,Condition,SNOMED,standard
+36675066,"Microcornea, rod-cone dystrophy, cataract, posterior staphyloma syndrome",Condition,SNOMED,standard
+36675714,Warburg micro syndrome,Condition,SNOMED,standard
+36676498,"Congenital cataract, progressive muscular hypotonia, hearing loss, developmental delay syndrome",Condition,SNOMED,standard
+36676675,"Porencephaly, microcephaly, bilateral congenital cataract syndrome",Condition,SNOMED,standard
+36676682,"Congenital cataract, hearing loss, severe developmental delay syndrome",Condition,SNOMED,standard
+36680594,Foveal hypoplasia with presenile cataract syndrome,Condition,SNOMED,standard
+36684615,Cataract of right eye due to and following trauma,Condition,SNOMED,standard
+36684665,Congenital cataract of right eye,Condition,SNOMED,standard
+36684670,Brunescent cataract of right eye,Condition,SNOMED,standard
+36684678,Cataract of left eye due to and following trauma,Condition,SNOMED,standard
+36684731,Congenital cataract of left eye,Condition,SNOMED,standard
+36684736,Brunescent cataract of left eye,Condition,SNOMED,standard
+36684791,Bilateral congenital cataract of eyes,Condition,SNOMED,standard
+36684796,Bilateral eye brunescent cataract,Condition,SNOMED,standard
+36684801,Cortical age-related cataract of right eye,Condition,SNOMED,standard
+36684802,Cortical age-related cataract of left eye,Condition,SNOMED,standard
+36684803,Bilateral posterior subcapsular polar senile cataract of eyes,Condition,SNOMED,standard
+36684804,Bilateral cortical age-related cataract eyes,Condition,SNOMED,standard
+36685057,Posterior subcapsular polar senile cataract of left eye,Condition,SNOMED,standard
+36685058,Posterior subcapsular polar senile cataract of right eye,Condition,SNOMED,standard
+36712945,Cataract of posterior subcapsule of right eye,Condition,SNOMED,standard
+36712946,Cataract of posterior subcapsule of left eye,Condition,SNOMED,standard
+36712947,Cataract of posterior subcapsule of bilateral eyes,Condition,SNOMED,standard
+36713345,Presenile cataract of bilateral eyes,Condition,SNOMED,standard
+36713473,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome",Condition,SNOMED,standard
+36713528,Cataract due to idiopathic hypoparathyroidism,Condition,SNOMED,standard
+36713529,Cataract due to pseudohypoparathyroidism,Condition,SNOMED,standard
+36713803,"Spondyloepiphyseal dysplasia, craniosynostosis, cleft palate, cataract and intellectual disability syndrome",Condition,SNOMED,standard
+36713858,Cataract glaucoma syndrome,Condition,SNOMED,standard
+36714026,Congenital cataract with ataxia and deafness syndrome,Condition,SNOMED,standard
+36714335,Autosomal dominant optic atrophy and cataract,Condition,SNOMED,standard
+36715121,Cardiomyopathy with cataract and hip spine disease syndrome,Condition,SNOMED,standard
+36715372,Hydrocephalus with endocardial fibroelastosis and cataract syndrome,Condition,SNOMED,standard
+36715408,Siegler Brewer Carey syndrome,Condition,SNOMED,standard
+36715527,Hypergonadotropic hypogonadism with cataract syndrome,Condition,SNOMED,standard
+36716387,Congenital cataract with deafness and hypogonadism syndrome,Condition,SNOMED,standard
+36716388,Congenital cataract with hypertrichosis and intellectual disability syndrome,Condition,SNOMED,standard
+36716389,Martsolf syndrome,Condition,SNOMED,standard
+36716390,Crome syndrome,Condition,SNOMED,standard
+36716448,"Juvenile cataract, microcornea, renal glucosuria syndrome",Condition,SNOMED,standard
+36717554,Cataract and microcornea syndrome,Condition,SNOMED,standard
+37108933,Bilateral after-cataract not obscuring vision,Condition,SNOMED,standard
+37108934,Right after-cataract not obscuring vision,Condition,SNOMED,standard
+37108935,Left after-cataract not obscuring vision,Condition,SNOMED,standard
+37108936,After-cataract of bilateral eyes,Condition,SNOMED,standard
+37111463,Coronary age-related cataract,Condition,SNOMED,standard
+37111464,Punctate age-related cataract,Condition,SNOMED,standard
+37111650,"Cataract, congenital heart disease, neural tube defect syndrome",Condition,SNOMED,standard
+37111654,"Intellectual disability, cataract, calcified pinna, myopathy syndrome",Condition,SNOMED,standard
+37116290,Congenital cataract ichthyosis syndrome,Condition,SNOMED,standard
+37117168,"Spinal muscular atrophy, Dandy-Walker malformation, cataract syndrome",Condition,SNOMED,standard
+37155829,Left Soemmerring's ring,Condition,SNOMED,standard
+37160969,"Microcephaly, congenital cataract, psoriasiform dermatitis syndrome",Condition,SNOMED,standard
+37161409,"Severe neurodevelopmental disorder with feeding difficulties, stereotypic hand movement, bilateral cataract",Condition,SNOMED,standard
+37163689,Cataract due to degenerative disorder,Condition,SNOMED,standard
+37163690,Capsular age-related cataract,Condition,SNOMED,standard
+37163691,Calcified age-related cataract,Condition,SNOMED,standard
+37163698,Cataract due to ocular degenerative disorder,Condition,SNOMED,standard
+37163794,"Cataract, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, skeletal dysplasia syndrome",Condition,SNOMED,standard
+37163797,"Retinitis pigmentosa, juvenile cataract, short stature, intellectual disability syndrome",Condition,SNOMED,standard
+37164681,Cataract due to undernutrition,Condition,SNOMED,standard
+37164682,Cataract due to dehydration,Condition,SNOMED,standard
+37165629,Oculocerebrodental syndrome,Condition,SNOMED,standard
+37166063,Post cranial irradiation cataract,Condition,SNOMED,standard
+37166820,"Congenital cataract, severe neonatal hepatopathy, global developmental delay syndrome",Condition,SNOMED,standard
+37168350,Congenital cataract microcornea with corneal opacity,Condition,SNOMED,standard
+37169187,Bilateral congenital capsular cataracts,Condition,SNOMED,standard
+37169188,Right congenital capsular cataract,Condition,SNOMED,standard
+37169189,Left congenital capsular cataract,Condition,SNOMED,standard
+37171230,Right Soemmerring's ring,Condition,SNOMED,standard
+37171272,Right congenital combined form cataract,Condition,SNOMED,standard
+37171332,Left congenital combined form cataract,Condition,SNOMED,standard
+37171350,Bilateral Soemmerring's ring,Condition,SNOMED,standard
+37207888,Congenital posterior subcapsular polar cataract of right eye,Condition,SNOMED,standard
+37207948,Congenital posterior subcapsular polar cataract of left eye,Condition,SNOMED,standard
+37207995,Bilateral congenital posterior subcapsular polar cataracts of eyes,Condition,SNOMED,standard
+37207996,Bilateral congenital nuclear cataracts of eyes,Condition,SNOMED,standard
+37208004,Hypermature senile cataract of right eye,Condition,SNOMED,standard
+37208005,Senile combined form cataract of right eye,Condition,SNOMED,standard
+37208006,Hypermature senile cataract of left eye,Condition,SNOMED,standard
+37208007,Senile combined form cataract of left eye,Condition,SNOMED,standard
+37208008,Bilateral hypermature senile cataracts of eyes,Condition,SNOMED,standard
+37208009,Bilateral senile combined form cataracts of eyes,Condition,SNOMED,standard
+37208213,Presenile cataract of left eye,Condition,SNOMED,standard
+37208214,Presenile cataract of right eye,Condition,SNOMED,standard
+37208215,Anterior subcapsular polar senile cataract of left eye,Condition,SNOMED,standard
+37208216,Anterior subcapsular polar senile cataract of right eye,Condition,SNOMED,standard
+37209532,Bilateral anterior subcapsular polar senile cataract of eyes,Condition,SNOMED,standard
+37309693,After-cataract of left eye,Condition,SNOMED,standard
+37309694,After-cataract of right eye,Condition,SNOMED,standard
+37310624,Bilateral congenital anterior subcapsular polar cataracts,Condition,SNOMED,standard
+37310630,Congenital anterior subcapsular polar cataract of right eye,Condition,SNOMED,standard
+37310640,Congenital anterior subcapsular polar cataract of left eye,Condition,SNOMED,standard
+37311300,Cataract of right eye,Condition,SNOMED,standard
+37311301,Cataract of left eye,Condition,SNOMED,standard
+37395848,Congenital muscular dystrophy with infantile cataract and hypogonadism syndrome,Condition,SNOMED,standard
+37395915,Cochleosaccular degeneration and cataract syndrome,Condition,SNOMED,standard
+37396246,Wellesley Carman French syndrome,Condition,SNOMED,standard
+37396247,Karandikar Maria Kamble syndrome,Condition,SNOMED,standard
+37396330,Absence deformity of leg and congenital cataract syndrome,Condition,SNOMED,standard
+37396376,Nathalie syndrome,Condition,SNOMED,standard
+40479994,Presenile cataract,Condition,SNOMED,standard
+40482507,Incipient senile cataract,Condition,SNOMED,standard
+40482880,Nance-Horan syndrome,Condition,SNOMED,standard
+40487893,Immature cataract,Condition,SNOMED,standard
+44783427,Zonular nonsenile cataract,Condition,SNOMED,standard
+44783428,Cortical nonsenile cataract,Condition,SNOMED,standard
+45757567,Hypermature senile cataract,Condition,SNOMED,standard
+45757716,Congenital posterior subcapsular polar cataract,Condition,SNOMED,standard
+45757718,Congenital anterior subcapsular polar cataract,Condition,SNOMED,standard
+45765456,Hyperferritinemia cataract syndrome,Condition,SNOMED,standard
+45770919,Infantile and/or juvenile cataract,Condition,SNOMED,standard
+45770920,Congenital combined form cataract,Condition,SNOMED,standard

@@ -1,7 +1,7 @@
-concept_id
-2615795
-2615796
-45765309
-45767340
-45767379
-45772840
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+2615795,"Pacemaker, dual chamber, rate-responsive (implantable)",Device,HCPCS,standard
+2615796,"Pacemaker, single chamber, rate-responsive (implantable)",Device,HCPCS,standard
+45765309,Intracardiac pacemaker,Device,SNOMED,standard
+45767340,Dual chamber rate responsive implantable cardiac pacemaker,Device,SNOMED,standard
+45767379,Single chamber rate responsive implantable cardiac pacemaker,Device,SNOMED,standard
+45772840,Implantable cardiac pacemaker,Device,SNOMED,standard

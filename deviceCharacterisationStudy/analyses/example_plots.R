@@ -2,8 +2,10 @@ library(here)
 library(dplyr)
 library(ggplot2)
 library(treemapify)
+library(readr)
+library(visOmopResults)
 
-load(here::here("data", "studyData.RData"))
+read_csv(here::here("data", "results_GOSH_OMOP_2026_11_18.csv"))
 devices <- readr::read_csv(here::here("devices.csv")) |> unique()
 
 working_data <- data[["summarise_table"]]|>

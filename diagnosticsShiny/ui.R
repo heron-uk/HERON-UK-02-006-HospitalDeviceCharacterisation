@@ -3,7 +3,6 @@ ui <- fluidPage(
     theme = bs_theme(5, "pulse"),
     navbar_options =list(class = "bg-dark", theme = "dark"),
 
-
     bslib::nav_panel(title = "PhenotypeR",
                      icon = shiny::icon("search"),
                      shiny::includeMarkdown(path = "background.md")),

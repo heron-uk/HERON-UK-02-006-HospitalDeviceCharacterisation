@@ -14,9 +14,11 @@ cdm$pacemaker_diagnoses <- conceptCohort(cdm,
 
 # procedures -----
 cdm$pacemaker_procedures <- conceptCohort(cdm,
-                                          conceptSet = codes[str_detect(names(codes), "pacemaker_implantation")],
-                                          name = "pacemaker_procedures",
-                                          exit = "event_start_date")
+                                        conceptSet = codes[names(codes) %in% c("pacemaker_implantation",
+                                                                               "pacemaker_replacement", "pacemaker_repair",
+                                                                               "pacemaker_removal", "pacemaker_relocation")],
+                                        name = "pacemaker_procedures",
+                                        exit = "event_start_date")
 
 # device (index event)  -----
 cdm$pacemaker_devices <- conceptCohort(cdm,
@@ -30,7 +32,6 @@ cdm$pacemaker_pacemaker_udi <- customCohort(cdm,
                                             field = "unique_device_id",
                                             values = udi,
                                             name = "pacemaker_udi")
-
 # bind -----
 cdm <- bind(cdm$pacemaker_diagnoses,
             cdm$pacemaker_procedures,

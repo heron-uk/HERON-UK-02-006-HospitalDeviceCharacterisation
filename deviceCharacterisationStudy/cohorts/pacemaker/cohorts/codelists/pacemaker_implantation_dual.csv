@@ -1,0 +1,16 @@
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept,type
+724616,Transcatheter insertion of permanent dual-chamber leadless pacemaker using fluoroscopy and device interrogation of right atrial and right ventricular pacemaker components,NA,NA,NA,dual
+724617,Transcatheter insertion of permanent dual-chamber leadless pacemaker,NA,NA,NA,dual
+724618,Transcatheter insertion of a permanent dual chamber leadless pacemaker using fluoroscopy and device interrogation of right ventricular pacemaker component,NA,NA,NA,dual
+2106991,Insertion of temporary transvenous dual chamber pacing electrodes,NA,NA,NA,dual
+2107049,Insertion of dual chamber permanent pacing cardioverter-defibrillator system with transvenous lead,NA,NA,NA,dual
+4150419,Implantation of intravenous dual chamber permanent cardiac pacemaker,Procedure,SNOMED,standard,dual
+4243335,Initial implantation of cardiac dual-chamber device,Procedure,SNOMED,standard,dual
+4246210,Implantation of cardiac dual-chamber device,Procedure,SNOMED,standard,dual
+40479415,Insertion of transvenous electrode of dual chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard,dual
+40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,standard,dual
+40481942,Insertion of permanent transvenous electrode of dual chamber pulse generator,Procedure,SNOMED,standard,dual
+40482387,Insertion of temporary transvenous electrode of dual chamber cardiac pulse generator,Procedure,SNOMED,standard,dual
+40485437,Insertion of dual chamber cardiac pacemaker pulse generator,Procedure,SNOMED,standard,dual
+44790432,Implantation of intravenous dual chamber cardiac pacemaker system,Procedure,SNOMED,standard,dual
+44790501,Implantation of dual chamber cardiac pacemaker system,Procedure,SNOMED,standard,dual

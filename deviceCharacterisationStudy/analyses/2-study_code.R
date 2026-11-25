@@ -1,4 +1,3 @@
-
 # Index cohort: device (SNOMED)
 # - UDI and procedure availability ----
 logMessage("Index cohort: device (SNOMED)")
@@ -65,7 +64,7 @@ logMessage("Index cohort: survival")
 for(pref in "pacemaker") {
 
   if(pref == "pacemaker") {
-    index <- "pacemaker_implantation"
+    index <- c("pacemaker_implantation_unspecified", "pacemaker_implantation_single", "pacemaker_implantation_dual")
     outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement")
   }
 

@@ -7,14 +7,39 @@ udi <- udi_files |>
   purrr::map(~ readr::read_csv(.x, col_types = cols(.default = col_character())) |> pull("udi"))
 
 # diagnoses -----
+diag <- c(
+  CodelistGenerator::unionCodelists(
+    omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "other_comorbidities")),
+    keepOriginal = TRUE,
+    newCodelistName = "other_comorbidities"
+  ),
+  CodelistGenerator::unionCodelists(
+    omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "neuromuscular_disorders")),
+    keepOriginal = TRUE,
+    newCodelistName = "neuromuscular_disorders"
+  ),
+  CodelistGenerator::unionCodelists(
+    omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "genetic_and_chromosomal_syndromes")),
+    keepOriginal = TRUE,
+    newCodelistName = "genetic_and_chromosomal_syndromes"
+  ),
+  CodelistGenerator::unionCodelists(
+    omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "cardiac_construction_disorders_and_arrhythmias")),
+    keepOriginal = TRUE,
+    newCodelistName = "cardiac_construction_disorders_and_arrhythmias"
+  )
+)
+
 cdm$pacemaker_diagnoses <- conceptCohort(cdm,
-                                         conceptSet = codes[c("arrhythmia")],
+                                         conceptSet = diag,
                                          name = "pacemaker_diagnoses",
                                          exit = "event_start_date")
 
 # procedures -----
 cdm$pacemaker_procedures <- conceptCohort(cdm,
-                                          conceptSet = codes[names(codes) %in% c("pacemaker_implantation",
+                                          conceptSet = codes[names(codes) %in% c("pacemaker_implantation_unspecified",
+                                                                                 "pacemaker_implantation_single",
+                                                                                 "pacemaker_implantation_dual",
                                                                                  "pacemaker_replacement", "pacemaker_repair",
                                                                                  "pacemaker_removal", "pacemaker_relocation")],
                                           name = "pacemaker_procedures",

@@ -1,0 +1,13 @@
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept,type
+724643,Insertion of permanent single-chamber leadless pacemaker for pacing the right upper heart chamber using imaging guidance,NA,NA,NA,single
+2106990,Insertion of temporary pacemaker lead in single heart chamber,NA,NA,NA,single
+4035447,Implantation of rate-responsive cardiac single-chamber device,Procedure,SNOMED,standard,single
+4180293,Implantation of intravenous single chamber cardiac pacemaker system,Procedure,SNOMED,standard,single
+4183537,Initial implantation of cardiac single-chamber device,Procedure,SNOMED,standard,single
+40479379,Insertion of single chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard,single
+40479833,Insertion of single chamber pacing cardioverter defibrillator pulse generator and transvenous electrode,Procedure,SNOMED,standard,single
+40483201,Insertion of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard,single
+40483213,Insertion of single chamber cardiac pacemaker pulse generator,Procedure,SNOMED,standard,single
+40483283,Insertion of temporary transvenous electrode of single chamber pacing pulse generator,Procedure,SNOMED,standard,single
+44790298,Implantation of single chamber cardiac pacemaker system,Procedure,SNOMED,standard,single
+44811732,Fluoroscopy guided insertion of cardiac single chamber permanent pacemaker,Procedure,SNOMED,standard,single

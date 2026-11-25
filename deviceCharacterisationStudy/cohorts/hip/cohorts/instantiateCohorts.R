@@ -1,5 +1,5 @@
-codes <- importCodelist(here::here("hip", "cohorts", "codelists"))
-udi_files <- list.files(path = here::here("hip","cohorts", "udi"),
+codes <- importCodelist(here::here("cohorts","hip", "cohorts", "codelists"))
+udi_files <- list.files(path = here::here("cohorts","hip","cohorts", "udi"),
                         pattern = "\\.csv$", full.names = TRUE)
 udi <- udi_files |>
   set_names(tools::file_path_sans_ext(basename(udi_files))) |>

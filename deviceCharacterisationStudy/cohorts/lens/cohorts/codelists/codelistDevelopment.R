@@ -70,15 +70,15 @@ list(cataract = cataract_codes,
      lens_posterior = lens_posterior_codes,
      lens_anterior = lens_anterior_codes) |>
   newCodelist() |>
-  exportCodelist(here::here("lens", "cohorts","codelists"), type = "csv")
+  exportCodelist(here::here("cohorts", "lens", "cohorts","codelists"), type = "csv")
 
 # export udi
 readr::write_csv(tibble(udi = bl_sofport_iol_udi_codes),
-                 here::here("lens", "cohorts","udi", "bl_sofport_iol_udi_codes.csv"))
+                 here::here("cohorts", "lens", "cohorts","udi", "bl_sofport_iol_udi_codes.csv"))
 readr::write_csv(tibble(udi = bl_akreos_micro_udi_codes),
-                 here::here("lens", "cohorts","udi", "bl_akreos_micro_udi.csv"))
+                 here::here("cohorts", "lens", "cohorts","udi", "bl_akreos_micro_udi.csv"))
 readr::write_csv(tibble(udi = jnj_tecnis_iol_codes),
-                 here::here("lens", "cohorts","udi", "jnj_tecnis_iol_udi.csv"))
+                 here::here("cohorts", "lens", "cohorts","udi", "jnj_tecnis_iol_udi.csv"))
 readr::write_csv(tibble(udi = alcon_acrsysof_udi_codes),
-                 here::here("lens", "cohorts","udi", "alcon_acrsysof_udi.csv"))
+                 here::here("cohorts", "lens", "cohorts","udi", "alcon_acrsysof_udi.csv"))
 

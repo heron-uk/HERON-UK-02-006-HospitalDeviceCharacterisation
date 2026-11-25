@@ -32,7 +32,9 @@ source(here("cohorts", "instantiateCohorts.R"))
 logMessage("Study cohorts instantiated")
 
 # Cohort counts and attrition ----
-results[["counts"]] <- summariseCohortCount(cdm[["hip"]], cdm[["pacemaker"]], cdm[["lens"]])
+results[["counts_hip"]] <- summariseCohortCount(cdm[["hip"]])
+results[["counts_pacemaker"]] <- summariseCohortCount(cdm[["pacemaker"]])
+results[["counts_lens"]] <- summariseCohortCount(cdm[["lens"]])
 
 # Run analyses ----
 logMessage("Run study analyses")

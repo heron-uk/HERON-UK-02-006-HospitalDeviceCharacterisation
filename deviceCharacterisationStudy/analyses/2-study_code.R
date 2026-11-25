@@ -21,7 +21,7 @@ for(pref in procedures_to_run) {
           window = c(-3,3)
         ),
         "Comorbidities" = list(
-          targetCohortTable = paste0(pref, "_indications"),
+          targetCohortTable = paste0(pref, "_diagnoses"),
           window = c(-Inf, 0)
         )
       )
@@ -51,7 +51,7 @@ for(pref in procedures_to_run) {
           window = c(-3,3)
         ),
         "Comorbidities" = list(
-          targetCohortTable = paste0(pref, "_indications"),
+          targetCohortTable = paste0(pref, "_diagnoses"),
           window = c(-Inf, 0)
         )
       )
@@ -62,15 +62,19 @@ for(pref in procedures_to_run) {
 
 # Index cohort: procedure (SNOMED) ----
 logMessage("Index cohort: survival")
-for(pref in procedures_to_run) {
+for(pref in "pacemaker") {
 
   if(pref == "pacemaker") {
+    index <- "pacemaker_implantation"
     outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement")
   }
 
-  results[[paste0(pref,"_survival")]] <- cdm[[paste0(pref,"_procedures")]] |>
+  results[[paste0(pref,"_survival")]] <- cdm |>
     estimateSingleEventSurvival(targetCohortTable = paste0(pref,"_procedures"),
-                                targetCohortId = outcomes)
+                                outcomeCohortId = index,
+                                outcomeCohortTable = paste0(pref,"_procedures"),
+                                targetCohortId = outcomes,
+                                outcomeWashout = Inf)
 
 }
 

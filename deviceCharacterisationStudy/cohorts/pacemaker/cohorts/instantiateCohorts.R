@@ -14,11 +14,11 @@ cdm$pacemaker_diagnoses <- conceptCohort(cdm,
 
 # procedures -----
 cdm$pacemaker_procedures <- conceptCohort(cdm,
-                                        conceptSet = codes[names(codes) %in% c("pacemaker_implantation",
-                                                                               "pacemaker_replacement", "pacemaker_repair",
-                                                                               "pacemaker_removal", "pacemaker_relocation")],
-                                        name = "pacemaker_procedures",
-                                        exit = "event_start_date")
+                                          conceptSet = codes[names(codes) %in% c("pacemaker_implantation",
+                                                                                 "pacemaker_replacement", "pacemaker_repair",
+                                                                                 "pacemaker_removal", "pacemaker_relocation")],
+                                          name = "pacemaker_procedures",
+                                          exit = "event_start_date")
 
 # device (index event)  -----
 cdm$pacemaker_devices <- conceptCohort(cdm,
@@ -27,11 +27,11 @@ cdm$pacemaker_devices <- conceptCohort(cdm,
                                        exit = "event_start_date")
 
 # udi  -----
-cdm$pacemaker_pacemaker_udi <- customCohort(cdm,
-                                            table = "device_exposure",
-                                            field = "unique_device_id",
-                                            values = udi,
-                                            name = "pacemaker_udi")
+cdm$pacemaker_udi <- customCohort(cdm,
+                                  table = "device_exposure",
+                                  field = "unique_device_id",
+                                  values = udi,
+                                  name = "pacemaker_udi")
 # bind -----
 cdm <- bind(cdm$pacemaker_diagnoses,
             cdm$pacemaker_procedures,

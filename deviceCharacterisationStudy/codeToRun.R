@@ -17,6 +17,8 @@ library(IncidencePrevalence)
 library(CohortSurvival)
 library(odbc)
 library(RPostgres)
+library(vroom)
+library(purrr)
 
 # database metadata and connection details
 # The name/ acronym for the database

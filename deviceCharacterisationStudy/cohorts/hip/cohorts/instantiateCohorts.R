@@ -3,7 +3,7 @@ udi_files <- list.files(path = here::here("cohorts","hip","cohorts", "udi"),
                         pattern = "\\.csv$", full.names = TRUE)
 udi <- udi_files |>
   set_names(tools::file_path_sans_ext(basename(udi_files))) |>
-  purrr::map(~ readr::read_csv(.x, col_types = cols(.default = col_character())) |> pull("udi"))
+  purrr::map(~ readr::read_csv(.x, col_types = vroom::cols(.default = vroom::col_character())) |> dplyr::pull("udi"))
 
 # diagnoses -----
 cdm[["hip_diagnoses"]] <- conceptCohort(cdm,

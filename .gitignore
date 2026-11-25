@@ -6,3 +6,4 @@ diagnosticsShiny/data/raw/phenotyper_results_GOSH_OMOP_2026_11_18.csv
 diagnosticsShiny/rsconnect/shinyapps.io/dpa-pde-oxford/HospitalDevicePhenotypeR.dcf
 diagnosticsShiny/data/appData.qs
 diagnosticsShiny/data/raw/phenotyper_results_GOSH_OMOP_2026_11_24.csv
+.DS_Store

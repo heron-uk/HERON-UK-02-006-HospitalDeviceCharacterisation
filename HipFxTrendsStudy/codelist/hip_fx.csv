@@ -1,0 +1,39 @@
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+432473,Open fracture of base of neck of femur,Condition,SNOMED,standard
+433856,Fracture of neck of femur,Condition,SNOMED,standard
+434500,Closed fracture of neck of femur,Condition,SNOMED,standard
+435956,Closed fracture of base of neck of femur,Condition,SNOMED,standard
+436247,Closed fracture of midcervical section of femur,Condition,SNOMED,standard
+436248,Open fracture of neck of femur,Condition,SNOMED,standard
+437117,Open fracture of intracapsular section of femur,Condition,SNOMED,standard
+437692,Open fracture of midcervical section of femur,Condition,SNOMED,standard
+437703,Closed fracture of intracapsular section of femur,Condition,SNOMED,standard
+440556,Closed transcervical fracture of femur,Condition,SNOMED,standard
+443459,Pathological fracture of neck of femur,Condition,SNOMED,standard
+759975,Open fracture of neck of left femur,Condition,SNOMED,standard
+759990,Open fracture of base of neck of right femur,Condition,SNOMED,standard
+759991,Open fracture of neck of right femur,Condition,SNOMED,standard
+760103,Open fracture of midcervical section of left femur,Condition,SNOMED,standard
+760405,Closed fracture of midcervical region of right femur,Condition,SNOMED,standard
+760406,Closed fracture of midcervical region of left femur,Condition,SNOMED,standard
+760409,Closed fracture of base of neck of right femur,Condition,SNOMED,standard
+760410,Closed fracture of base of neck of left femur,Condition,SNOMED,standard
+760411,Closed fracture of neck of right femur,Condition,SNOMED,standard
+760412,Closed fracture of neck of left femur,Condition,SNOMED,standard
+760413,Closed subcapital fracture of neck of right femur,Condition,SNOMED,standard
+760414,Closed subcapital fracture of neck of left femur,Condition,SNOMED,standard
+760642,Pathological fracture of neck of right femur,Condition,SNOMED,standard
+760643,Pathological fracture of neck of left femur,Condition,SNOMED,standard
+760687,Stress fracture of neck of left femur,Condition,SNOMED,standard
+765895,Stress fracture of neck of right femur,Condition,SNOMED,standard
+1077318,Fracture of neck of left femur,Condition,SNOMED,standard
+1077319,Fracture of neck of right femur,Condition,SNOMED,standard
+1450616,Fracture of midcervical section of neck of left femur,Condition,SNOMED,standard
+1450617,Fracture of midcervical section of neck of right femur,Condition,SNOMED,standard
+4015494,"Closed fracture proximal femur, transcervical",Condition,SNOMED,standard
+4136839,Midcervical fracture of neck of femur,Condition,SNOMED,standard
+4136840,Basicervical fracture of neck of femur,Condition,SNOMED,standard
+4160572,Osteoporotic fracture of neck of femur,Condition,SNOMED,standard
+37209093,Open fracture of midcervical section of right femur,Condition,SNOMED,standard
+37310233,Open fracture of base of neck of left femur,Condition,SNOMED,standard
+45766817,Stress fracture of neck of femur,Condition,SNOMED,standard

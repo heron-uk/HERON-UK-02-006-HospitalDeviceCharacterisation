@@ -62,33 +62,14 @@ if(length(dataFiltered) > 0){
     dplyr::distinct() |>
     dplyr::pull("cdm_name") |>
     sort()
-
-  if((length(diagnostics) >= 1 || diagnostics != "databaseDiagnostics")) {
-    # Common variables
-    if(length(diagnostics) == 1 && diagnostics == "populationDiagnostics"){
-      values$shared_cohort_names <- result |>
-        visOmopResults::splitGroup() |>
-        dplyr::pull("outcome_cohort_name") |>
-        unique() |>
-        sort()
-    }else{
-      values$shared_cohort_names <- result |>
-        visOmopResults::splitGroup() |>
-        dplyr::select(dplyr::any_of(c("cohort_name", "outcome_cohort_name"))) |>
-        dplyr::distinct() |>
-        dplyr::filter(!grepl("_sampled|_matched", cohort_name),
-                      cohort_name != "overall")
-      values$shared_cohort_names  <- c(values$shared_cohort_names$cohort_name,
-                                       values$shared_cohort_names$outcome_cohort_name) |>
-        unique() |>
-        sort()
-    }
-    values$shared_cohort_names <- values$shared_cohort_names[values$shared_cohort_names != "overall"]
-  }
 }else{
   diagnostics <- ""
 }
 
+values$shared_cohort_names <- c("hip diagnoses", "hip procedures", "hip devices", "hip udis",
+                                "lens diagnoses", "lens procedures", "lens devices",  "lens udis",
+                                "pacemaker diagnoses", "pacemaker procedures", "pacemaker devices", "pacemakers udis")
+  
 # Filter not needed values
 values <- filterValues(values, prefix = "summarise_omop_snapshot", sufix_to_include = "cdm_name")
 values <- filterValues(values, prefix = "summarise_observation_period", sufix_to_include = "cdm_name")

@@ -434,3 +434,33 @@ reactablefmtr_add_subtitle <- function(table = NULL,
     )
   )
 }
+
+getGroup <- function(input)  {
+  group <- c()
+  group <- if ("lens diagnoses" %in% input) {append(group, c("cataract"))} else {group}
+  group <- if ("lens devices" %in% input) {append(group, c("lens_anterior", "lens_posterior", "lens"))} else {group}
+  group <- if ("lens procedures" %in% input) {append(group, c("lens_implantation"))} else {group}
+  group <- if ("lens udis" %in% input) {append(group, c("alcon_acrsysof_udi", "bl_akreos_micro_udi",
+                                                        "bl_sofport_iol_udi_codes", "jnj_tecnis_iol_udi"))} else {group}
+  
+  group <- if ("hip diagnoses" %in% input) {append(group, c("hip_fx", "hip_oa"))} else {group}
+  group <- if ("hip devices" %in% input) {append(group, c("femoral_head_bipolar", "femoral_head_ceramic", "femoral_head_metallic",
+                                                                          "femoral_head", "femur_prosthesis_coated", "femur_prosthesis_codes", 
+                                                                          "femur_prosthesis_uncoated"))} else {group}
+  group <- if ("hip procedures" %in% input) {append(group, c("hemi_cemented_revision", "hemi_cemented", "hemi_revision",
+                                                                             "hemi_uncemented_revision", "hemi_uncemented", "hemi", "hip_replacement",
+                                                                             "hip_revision"))} else {group}
+  group <- if ("hip udis" %in% input) {append(group, c("biomet_hip_system_udi", "depuy_articul_eze_udi",
+                                                         "depuy_biolox_delta_udi", "depuy_c_stem_udi",
+                                                         "depuy_corail_udi", "depuy_self_centering_udi", 
+                                                         "zimmer_biolox_delta_udi"))} else {group}
+  
+  group <- if ("pacemaker diagnoses" %in% input) {append(group, c("arrhythmia"))} else {group}
+  group <- if ("pacemaker devices" %in% input) {append(group, c("pacemaker_dual", "pacemaker_single", "pacemaker"))} else {group}
+  group <- if ("pacemaker procedures" %in% input) {append(group, c("pacemaker_implantation"))} else {group}
+  group <- if ("pacemakers udis" %in% input) {append(group, c("biotronik_amvia_sky_udi", "medronic_dr_azure_surescan_udi",
+                                                        "medronic_sensia_udi", "medronic_sr_azure_surescan_udi",
+                                                        "st_jude_aveir_udi", "st_jude_dr_assurity_udi", "st_jude_sr_assurity_udi"))} else {group}
+  
+  return(group)
+}

@@ -58,14 +58,13 @@ for(pref in procedures_to_run) {
 }
 
 
-
 # Index cohort: procedure (SNOMED) ----
 logMessage("Index cohort: survival")
 for(pref in "pacemaker") {
 
   if(pref == "pacemaker") {
     index <- c("pacemaker_implantation_unspecified", "pacemaker_implantation_single", "pacemaker_implantation_dual")
-    outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement")
+    outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement", "endocarditis")
   }
 
   for(i in index){
@@ -73,10 +72,9 @@ for(pref in "pacemaker") {
       estimateSingleEventSurvival(targetCohortTable = paste0(pref,"_procedures"),
                                   targetCohortId = i,
                                   outcomeCohortId = outcomes,
-                                  outcomeCohortTable = paste0(pref,"_procedures"),
+                                  outcomeCohortTable = pref,
                                   outcomeWashout = Inf)
   }
-
 }
 
 

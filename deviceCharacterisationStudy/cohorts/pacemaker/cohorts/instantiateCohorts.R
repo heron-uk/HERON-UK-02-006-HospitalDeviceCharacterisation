@@ -45,6 +45,12 @@ cdm$pacemaker_procedures <- conceptCohort(cdm,
                                           name = "pacemaker_procedures",
                                           exit = "event_start_date")
 
+# Complications
+cdm$pacemaker_complications <- conceptCohort(cdm,
+                                   conceptSet = codes[names(codes) %in% c("endocarditis")],
+                                   name = "pacemaker_complications",
+                                   exit = "event_start_date")
+
 # device (index event)  -----
 cdm$pacemaker_devices <- conceptCohort(cdm,
                                        conceptSet = codes[names(codes) %in% c("pacemaker", "pacemaker_dual", "pacemaker_single")],
@@ -60,6 +66,7 @@ cdm$pacemaker_udi <- customCohort(cdm,
 # bind -----
 cdm <- bind(cdm$pacemaker_diagnoses,
             cdm$pacemaker_procedures,
+            cdm$pacemaker_complications,
             cdm$pacemaker_devices,
             cdm$pacemaker_udi,
             name = "pacemaker")

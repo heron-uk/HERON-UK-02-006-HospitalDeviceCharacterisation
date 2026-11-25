@@ -26,12 +26,9 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 4050574,Insertion of permanent epicardial cardiac pacemaker system,Procedure,SNOMED,standard
 4085558,Insertion of temporary cardiac pacemaker,Procedure,SNOMED,standard
 4099402,Insertion of intracardiac pacemaker,Procedure,SNOMED,standard
-4121584,Removal of IV endocardial electrode,Procedure,SNOMED,standard
 4125933,Insertion of IV endocardial electrode,Procedure,SNOMED,standard
-4136517,Replacement of transvenous ventricular pacemaker electrode leads,Procedure,SNOMED,standard
-4140976,Check artificial pacemaker for amperage threshold,Procedure,SNOMED,standard
 4140992,Insertion of permanent atrial pacemaker with transvenous electrodes,Procedure,SNOMED,standard
-4142917,Insertion of permanent pacemaker with transvenous electrodes AV sequential,Procedure,SNOMED,standard
+4142917,Insertion of permanent pacemaker with transvenous electrodes,Procedure,SNOMED,standard
 4144860,Implantation of emergency intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4144921,Implantation of cardiac pacemaker,Procedure,SNOMED,standard
 4150419,Implantation of intravenous dual chamber permanent cardiac pacemaker,Procedure,SNOMED,standard
@@ -40,12 +37,12 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 4180298,Implantation of intravenous cardiac resynchronization therapy implantable pacemaker,Procedure,SNOMED,standard
 4183537,Initial implantation of cardiac single-chamber device,Procedure,SNOMED,standard
 4202955,Implantation of complex one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
-4204395,Insertion of permanent pacemaker with transvenous electrodes ventricular,Procedure,SNOMED,standard
+4204395,Insertion of permanent pacemaker with transvenous electrodes, ventricular,SNOMED,standard
 4205990,Implantation of simple one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4205991,Implantation of complex two wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4206128,Implantation of temporary intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4243335,Initial implantation of cardiac dual-chamber device,Procedure,SNOMED,standard
-4246210,Implantation of cardiac dual-chamber device replacement,Procedure,SNOMED,standard
+4246210,Implantation of cardiac dual-chamber device,Procedure,SNOMED,standard
 4275747,Subcutaneous implantation of cardiac pacemaker,Procedure,SNOMED,standard
 4281670,Implantation of cardiac temporary transvenous pacemaker system during and immediately following cardiac surgery,Procedure,SNOMED,standard
 4290930,Insertion of pacemaker pulse generator,Procedure,SNOMED,standard
@@ -60,7 +57,6 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 40479415,Insertion of transvenous electrode of dual chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard
 40479833,Insertion of single chamber pacing cardioverter defibrillator pulse generator and transvenous electrode,Procedure,SNOMED,standard
 40481055,Insertion of dual chamber pulse generator and repositioning of cardioverter defibrillation pulse generator lead,Procedure,SNOMED,standard
-40481494,Replacement of dual chamber pulse generator,Procedure,SNOMED,standard
 40481942,Insertion of permanent transvenous electrode of dual chamber pulse generator,Procedure,SNOMED,standard
 40482387,Insertion of temporary transvenous electrode of dual chamber cardiac pulse generator,Procedure,SNOMED,standard
 40483201,Insertion of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator,Procedure,SNOMED,standard
@@ -77,6 +73,4 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 44790501,Implantation of dual chamber cardiac pacemaker system,Procedure,SNOMED,standard
 44807913,Fluoroscopy guided insertion of permanent biventricular pacemaker lead,Procedure,SNOMED,standard
 44807914,Fluoroscopy guided insertion of biventricular implantable cardioverter defibrillator lead,Procedure,SNOMED,standard
-44809477,Fluoroscopy guided removal of cardiac pacemaker lead using laser sheath,Procedure,SNOMED,standard
-44810457,Repositioning of lead of subcutaneous cardioverter defibrillator,Procedure,SNOMED,standard
 44811732,Fluoroscopy guided insertion of cardiac single chamber permanent pacemaker,Procedure,SNOMED,standard

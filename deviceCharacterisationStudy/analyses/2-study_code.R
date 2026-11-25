@@ -68,12 +68,14 @@ for(pref in "pacemaker") {
     outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement")
   }
 
-  results[[paste0(pref,"_survival")]] <- cdm |>
-    estimateSingleEventSurvival(targetCohortTable = paste0(pref,"_procedures"),
-                                outcomeCohortId = index,
-                                outcomeCohortTable = paste0(pref,"_procedures"),
-                                targetCohortId = outcomes,
-                                outcomeWashout = Inf)
+  for(i in index){
+    results[[paste0(pref,"_survival_",i)]] <- cdm |>
+      estimateSingleEventSurvival(targetCohortTable = paste0(pref,"_procedures"),
+                                  targetCohortId = i,
+                                  outcomeCohortId = outcomes,
+                                  outcomeCohortTable = paste0(pref,"_procedures"),
+                                  outcomeWashout = Inf)
+  }
 
 }
 

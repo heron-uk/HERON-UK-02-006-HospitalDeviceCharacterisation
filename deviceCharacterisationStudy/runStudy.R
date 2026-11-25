@@ -36,14 +36,14 @@ results[["counts"]] <- summariseCohortCount(cdm[["hip"]], cdm[["pacemaker"]], cd
 
 # Run analyses ----
 logMessage("Run study analyses")
-source(here("analyses", "1-diagnostics.R"))
+# source(here("analyses", "1-diagnostics.R"))
 source(here("analyses", "2-study_code.R"))
 logMessage("Analyses finished")
 
 # Finish ----
-results <- bind(results)
+result <- bind(results)
 exportSummarisedResult(
-  result = results,
+  result = result,
   minCellCount = min_cell_count,
   fileName = "results_{cdm_name}_{date}.csv",
   path = results_folder

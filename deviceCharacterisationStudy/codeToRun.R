@@ -19,7 +19,7 @@ library(odbc)
 library(RPostgres)
 library(vroom)
 library(purrr)
-library(stringr
+library(stringr)
 
 # database metadata and connection details
 # The name/ acronym for the database

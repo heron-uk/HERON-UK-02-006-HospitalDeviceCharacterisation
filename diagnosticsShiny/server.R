@@ -1059,7 +1059,7 @@ server <- function(input, output, session) {
     if (is.null(dataFiltered$orphan_code_use)) {
       shiny::validate("No orphan codes in results")
     }
-    
+
     result <- dataFiltered$orphan_code_use |>
       dplyr::filter(.data$cdm_name %in% shared_cdm_names(),
                     .data$group_level %in% input$orphan_code_use_codelist_name)
@@ -1117,7 +1117,7 @@ server <- function(input, output, session) {
     return(tbl)
   })
   output$orphan_codes_tbl <- shiny::renderUI({
-    
+
     if(isFALSE(input$orphan_interactive)){
       tbl <- createOrphanCodesGT()
       return(tbl)
@@ -1126,7 +1126,7 @@ server <- function(input, output, session) {
       # column ordering by codelist and first column with a count
       order <- list("Codelist name"  = "asc",
                     "count" = "desc")
-      names(order)[2] <- names(tbl)[11]
+      names(order)[2] <- names(tbl)[7]
       
       # suppressed to NA
       tbl <- tbl |>

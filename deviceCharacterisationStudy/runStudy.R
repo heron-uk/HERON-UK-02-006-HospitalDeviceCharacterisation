@@ -24,6 +24,8 @@ logMessage("LOG CREATED")
 results[["snapshot"]] <- summariseOmopSnapshot(cdm)
 results[["obs_period"]] <- summariseObservationPeriod(cdm)
 
+procedures_to_run <- c("hip", "lens", "pacemaker")
+
 # Instantiate study cohorts ----
 logMessage("Instantiating study cohorts")
 source(here("cohorts", "instantiateCohorts.R"))
@@ -32,7 +34,6 @@ logMessage("Study cohorts instantiated")
 # Cohort counts and attrition ----
 results[["counts"]] <- summariseCohortCount(cdm[["hip"]], cdm[["pacemaker"]], cdm[["lens"]])
 
-procedures_to_run <- c("hip", "lens", "pacemaker")
 # Run analyses ----
 logMessage("Run study analyses")
 source(here("analyses", "1-diagnostics.R"))

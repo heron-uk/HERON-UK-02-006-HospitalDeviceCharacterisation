@@ -1,5 +1,5 @@
 
-codes <- importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists"))
+codes <- omopgenerics::importCodelistWithDetails(here::here("cohorts","pacemaker", "cohorts", "codelists"))
 udi_files <- list.files(path = here::here("cohorts","pacemaker","cohorts", "udi"),
                         pattern = "\\.csv$", full.names = TRUE)
 udi <- udi_files |>

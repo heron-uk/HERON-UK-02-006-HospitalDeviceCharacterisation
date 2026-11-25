@@ -1,4 +1,4 @@
-codes <- importCodelist(here::here("cohorts","lens", "cohorts", "codelists"))
+codes <- importCodelistWithDetails(here::here("cohorts","lens", "cohorts", "codelists"))
 udi_files <- list.files(path = here::here("cohorts","lens","cohorts", "udi"),
                         pattern = "\\.csv$", full.names = TRUE)
 udi <- udi_files |>
@@ -31,9 +31,9 @@ cdm[["lens_udi"]] <- customCohort(cdm,
                                       name = "lens_udi")
 
 # bind -----
-cdm <- bind(cdm$iol_diagnoses,
-            cdm$procedures,
-            cdm$devices,
+cdm <- bind(cdm$lens_diagnoses,
+            cdm$lens_procedures,
+            cdm$lens_devices,
             cdm$lens_udi,
             name = "lens")
 attr(cdm$lens, "cohort_set") <- attr(cdm$lens, "cohort_set") |>

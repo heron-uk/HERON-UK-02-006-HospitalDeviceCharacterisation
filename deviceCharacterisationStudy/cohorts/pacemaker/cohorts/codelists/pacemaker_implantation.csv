@@ -31,7 +31,7 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 4136517,Replacement of transvenous ventricular pacemaker electrode leads,Procedure,SNOMED,standard
 4140976,Check artificial pacemaker for amperage threshold,Procedure,SNOMED,standard
 4140992,Insertion of permanent atrial pacemaker with transvenous electrodes,Procedure,SNOMED,standard
-"4142917,""Insertion of permanent pacemaker with transvenous electrodes, AV sequential"",Procedure,SNOMED,standard"
+4142917,Insertion of permanent pacemaker with transvenous electrodes AV sequential,Procedure,SNOMED,standard
 4144860,Implantation of emergency intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4144921,Implantation of cardiac pacemaker,Procedure,SNOMED,standard
 4150419,Implantation of intravenous dual chamber permanent cardiac pacemaker,Procedure,SNOMED,standard
@@ -40,12 +40,12 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 4180298,Implantation of intravenous cardiac resynchronization therapy implantable pacemaker,Procedure,SNOMED,standard
 4183537,Initial implantation of cardiac single-chamber device,Procedure,SNOMED,standard
 4202955,Implantation of complex one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
-"4204395,""Insertion of permanent pacemaker with transvenous electrodes, ventricular"",Procedure,SNOMED,standard"
+4204395,Insertion of permanent pacemaker with transvenous electrodes ventricular,Procedure,SNOMED,standard
 4205990,Implantation of simple one wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4205991,Implantation of complex two wire intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4206128,Implantation of temporary intravenous cardiac pacemaker,Procedure,SNOMED,standard
 4243335,Initial implantation of cardiac dual-chamber device,Procedure,SNOMED,standard
-"4246210,""Implantation of cardiac dual-chamber device, replacement"",Procedure,SNOMED,standard"
+4246210,Implantation of cardiac dual-chamber device replacement,Procedure,SNOMED,standard
 4275747,Subcutaneous implantation of cardiac pacemaker,Procedure,SNOMED,standard
 4281670,Implantation of cardiac temporary transvenous pacemaker system during and immediately following cardiac surgery,Procedure,SNOMED,standard
 4290930,Insertion of pacemaker pulse generator,Procedure,SNOMED,standard

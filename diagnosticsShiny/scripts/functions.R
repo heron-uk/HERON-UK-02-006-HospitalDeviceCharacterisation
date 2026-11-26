@@ -435,6 +435,10 @@ reactablefmtr_add_subtitle <- function(table = NULL,
   )
 }
 
+c("lens diagnoses", "lens devices", "lens procedures", "lens udis",
+  "hip diagnoses", "hip devices", "hip procedures", "hip udis", 
+  "pacemaker diagnoses", "pacemaker devices", "pacemaker procedures", 
+  )
 getGroup <- function(input)  {
   group <- c()
   group <- if ("lens diagnoses" %in% input) {append(group, c("cataract"))} else {group}

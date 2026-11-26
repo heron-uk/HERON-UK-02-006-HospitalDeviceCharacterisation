@@ -11,3 +11,5 @@ diagnosticsShiny/data/raw/results_IDRIL_1_2026_11_23.csv
 diagnosticsCode/.DS_Store
 diagnosticsShiny/.DS_Store
 deviceCharacterisationShiny/Results/results_GOSH_OMOP_devices.csv
+deviceCharacterisationShiny/shiny/rawData/results.csv
+deviceCharacterisationShiny/shiny/data/studyData.RData

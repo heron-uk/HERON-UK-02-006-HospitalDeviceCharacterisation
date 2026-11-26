@@ -20,6 +20,7 @@ library(RPostgres)
 library(vroom)
 library(purrr)
 library(stringr)
+library(PhenotypeR)
 
 # database metadata and connection details
 # The name/ acronym for the database

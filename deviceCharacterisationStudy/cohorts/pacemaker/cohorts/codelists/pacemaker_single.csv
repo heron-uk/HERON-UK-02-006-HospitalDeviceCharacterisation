@@ -1,3 +1,33 @@
-concept_id,concept_name,domain_id,vocabulary_id,standard_concept
-2615796,"Pacemaker, single chamber, rate-responsive (implantable)",Device,HCPCS,standard
-45767379,Single chamber rate responsive implantable cardiac pacemaker,Device,SNOMED,standard
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept,
+2615796,"Pacemaker, single chamber, rate-responsive (implantable)",Device,HCPCS,standard,
+45767379,Single chamber rate responsive implantable cardiac pacemaker,Device,SNOMED,standard,
+2615957,"Pacemaker, single chamber, non rate-responsive (implantable)",Device,HCPCS,S,single
+40217112,"Pacemaker, single chamber, ela medical opus s model 4121, 4124 (Deprecated)",Device,HCPCS,S,single
+40217905,"Pacemaker, single chamber, pulsar max sr, pulsar sr (Deprecated)",Device,HCPCS,S,single
+40217912,"Pacemaker, single chamber, vigor sr (Deprecated)",Device,HCPCS,S,single
+40217913,"Pacemaker, single chamber, meridian ssi (Deprecated)",Device,HCPCS,S,single
+40217914,"Pacemaker, single chamber, pulsar ssi (Deprecated)",Device,HCPCS,S,single
+40217915,"Pacemaker, single chamber, jade ii s, sigma 300 s (Deprecated)",Device,HCPCS,S,single
+40217916,"Pacemaker, single chamber, sigma 200 s (Deprecated)",Device,HCPCS,S,single
+40218058,"Pacemaker, single chamber, ela medical opus g model 4621, 4624 (Deprecated)",Device,HCPCS,S,single
+40218059,"Pacemaker, single chamber, ela medical talent model 113 (Deprecated)",Device,HCPCS,S,single
+40218060,"Pacemaker, single chamber, kairos sr (Deprecated)",Device,HCPCS,S,single
+40218061,"Pacemaker, single chamber, actros sr+, actros sr-b+ (Deprecated)",Device,HCPCS,S,single
+40218062,"Pacemaker, single chamber, philos sr, philos sr-b (Deprecated)",Device,HCPCS,S,single
+40218063,"Pacemaker, single chamber, pulsar max ii sr 1180, 1181 (Deprecated)",Device,HCPCS,S,single
+40218064,"Pacemaker, single chamber, marathon sr 291-09, 292-09r, 292-09X (Deprecated)",Device,HCPCS,S,single
+40218065,"Pacemaker, single chamber, discovery ii ssi 481 (Deprecated)",Device,HCPCS,S,single
+40218066,"Pacemaker, single chamber, discovery ii sr 1184, 1185, 1186, 1187 (Deprecated)",Device,HCPCS,S,single
+40218157,"Pacemaker, single chamber, discovery sr (Deprecated)",Device,HCPCS,S,single
+40218196,"Pacemaker, single chamber, meridian sr (Deprecated)",Device,HCPCS,S,single
+40218212,"Pacemaker, single chamber, vigor ssi (Deprecated)",Device,HCPCS,S,single
+40218229,"Pacemaker, single chamber, legacy ii s (Deprecated)",Device,HCPCS,S,single
+40218404,"Pacemaker, single chamber, rate-responsive, affinity sr 5130, affinity sr 51301, affinity sr 5130r, ntegrity sr 5142 (Deprecated)",Device,HCPCS,S,single
+40218468,"Pacemaker, single chamber, kappa 400 sr, topaz ii sr (Deprecated)",Device,HCPCS,S,single
+40218470,"Pacemaker, single chamber, kappa 700 s (Deprecated)",Device,HCPCS,S,single
+40218475,"Pacemaker, single chamber, sigma 200 sr, legacy ii sr (Deprecated)",Device,HCPCS,S,single
+40218476,"Pacemaker, single chamber, sigma 300 sr, vita sr (Deprecated)",Device,HCPCS,S,single
+40218483,"Pacemaker, single chamber, regency sc+ 24021 (Deprecated)",Device,HCPCS,S,single
+40218486,"Pacemaker, single chamber, affinity sr 5131m/s, tempo vr 1102, trilogy sr+ 22601, trilogy sr+ 22641 (Deprecated)",Device,HCPCS,S,single
+40481924,"Single chamber pulse generator, device",Device,SNOMED,S,single
+45767378,Single chamber fixed rate and/or demand implantable cardiac pacemaker,Device,SNOMED,S,single

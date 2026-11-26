@@ -42,7 +42,6 @@ for(i in procedures_to_run) {
   results[[paste0("counts_",i)]] <- summariseCohortCount(cdm[[i]])
 }
 
-
 # Run analyses ----
 logMessage("Run study analyses")
 # source(here("analyses", "1-diagnostics.R"))

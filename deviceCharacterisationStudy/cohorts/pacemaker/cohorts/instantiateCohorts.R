@@ -1,4 +1,3 @@
-
 codes <- omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists"))
 udi_files <- list.files(path = here::here("cohorts","pacemaker","cohorts", "udi"),
                         pattern = "\\.csv$", full.names = TRUE)
@@ -16,12 +15,12 @@ diag <- c(
   CodelistGenerator::unionCodelists(
     omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "neuromuscular_disorders")),
     keepOriginal = TRUE,
-    newCodelistName = "neuromuscular_disorders"
+    newCodelistName = "congenital_heart_diseases"
   ),
   CodelistGenerator::unionCodelists(
     omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "genetic_and_chromosomal_syndromes")),
     keepOriginal = TRUE,
-    newCodelistName = "genetic_and_chromosomal_syndromes"
+    newCodelistName = "cardiovascular_risk_diseases"
   ),
   CodelistGenerator::unionCodelists(
     omopgenerics::importCodelist(here::here("cohorts","pacemaker", "cohorts", "codelists", "cardiac_construction_disorders_and_arrhythmias")),
@@ -53,7 +52,7 @@ cdm$pacemaker_complications <- conceptCohort(cdm,
 
 # device (index event)  -----
 cdm$pacemaker_devices <- conceptCohort(cdm,
-                                       conceptSet = codes[names(codes) %in% c("pacemaker", "pacemaker_dual", "pacemaker_single")],
+                                       conceptSet = codes[names(codes) %in% c("pacemaker_unspecified", "pacemaker_dual", "pacemaker_single")],
                                        name = "pacemaker_devices",
                                        exit = "event_start_date")
 

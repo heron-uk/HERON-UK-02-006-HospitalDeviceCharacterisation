@@ -24,7 +24,7 @@ getGroup <- function(input)  {
                                                                   "ebstein_anomaly", "tetralogy_of_fallot", "transposition_of_the_great_arteries", "ventricular_septal_defect",
                                                                   "down_syndrome", "holt_oram_syndrome", "noonan_syndrome", "turner_syndrome", "williams_syndrome", "kearns_sayre_syndrome",
                                                                   "myotonic_dystrophy", "cardiomyopathy", "heart_failure", "myocarditis", "neonatal_lupus"))} else {group}
-  group <- if ("pacemaker devices" %in% input) {append(group, c("pacemaker_dual", "pacemaker_single", "pacemaker"))} else {group}
+  group <- if ("pacemaker devices" %in% input) {append(group, c("pacemaker_dual", "pacemaker_single", "pacemaker_unspecified"))} else {group}
   group <- if ("pacemaker complications" %in% input) {append(group, c("endocarditis"))} else {group}
   group <- if ("pacemaker procedures" %in% input) {append(group, c("pacemaker_implantation_dual", "pacemaker_implantation_single", "pacemaker_implantation_unspecified",
                                                                    "pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement"))} else {group}

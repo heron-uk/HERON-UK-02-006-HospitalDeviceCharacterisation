@@ -85,7 +85,7 @@ working_data |>
 
 
 # Pacemakers -----
-res <- importSummarisedResult(path = here("Results/results_GOSH_OMOP_2026_11_25.csv"))
+res <- importSummarisedResult(path = here("Results/results_GOSH_OMOP_2026_11_26.csv"))
 
 # Cohort count
 x <- getGroup(c("pacemaker devices", "pacemaker procedures"))
@@ -93,7 +93,6 @@ res |>
   filterSettings(result_type == "summarise_cohort_count") |>
   filterGroup(cohort_name %in% !!x) |>
   tableCohortCount(header = c("cdm_name", "variable_name"))
-
 
 # Cohort characteristics
 res |>
@@ -110,9 +109,7 @@ res |>
   filterSettings(result_type == "summarise_characteristics") |>
   filterGroup(grepl("pacemaker", cohort_name)) |>
   filterGroup(grepl("implantation", cohort_name)) |>
-  filter(variable_name %in% c("Devices", "Devices (sensitivity)"),
-         !variable_level %in% c("Pacemaker removal", "Pacemaker repair",
-                                "Pacemaker replacement", "Pacemaker relocation")) |>
+  filter(variable_name %in% c("Devices", "Devices (sensitivity)")) |>
   tableCharacteristics()
 
 # Cohort survival

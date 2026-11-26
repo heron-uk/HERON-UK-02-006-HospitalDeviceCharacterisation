@@ -1,2 +1,7 @@
-concept_id
-45758380
+concept_id,concept_name,domain_id,vocabulary_id,standard_concept
+45758380,"Anterior-chamber intraocular lens, pseudophakic",Device,SNOMED,standard
+2721879,Anterior chamber intraocular lens,,,
+4105218,Anterior chamber lens,,,
+4187770,Anterior chamber phakic intraocular lens,,,
+4223602,Open loop anterior chamber lens,,,
+4226372,Closed loop anterior chamber lens,,,

@@ -91,7 +91,7 @@ res <- importSummarisedResult(path = here("Results/results_GOSH_OMOP_2026_11_26.
 x <- getGroup(c("pacemaker devices", "pacemaker procedures"))
 res |>
   filterSettings(result_type == "summarise_cohort_count") |>
-  filterGroup(cohort_name %in% !!x) |>
+  filterGroup(cohort_name  %in% !!x) |>
   tableCohortCount(header = c("cdm_name", "variable_name"))
 
 # Cohort characteristics

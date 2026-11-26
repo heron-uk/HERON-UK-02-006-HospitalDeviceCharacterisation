@@ -60,11 +60,16 @@ for(pref in procedures_to_run) {
 
 # Index cohort: procedure (SNOMED) ----
 logMessage("Index cohort: survival")
-for(pref in "pacemaker") {
+for(pref in c("pacemaker", "hip")) {
 
   if(pref == "pacemaker") {
     index <- c("pacemaker_implantation_unspecified", "pacemaker_implantation_single", "pacemaker_implantation_dual")
     outcomes <- c("pacemaker_relocation", "pacemaker_removal", "pacemaker_repair", "pacemaker_replacement", "endocarditis")
+  }
+
+  if(pref == "hip") {
+    index <- c("hemi_cemented", "hemi_uncemented", "hemi_unspecified")
+    outcomes <- c("vte", "hemi_revision", "hemi_uncemented_revision", "hemi_cemented_revision")
   }
 
   for(i in index){

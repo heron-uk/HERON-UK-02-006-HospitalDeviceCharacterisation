@@ -1,6 +1,6 @@
 ﻿concept_id,concept_name,domain_id,vocabulary_id,standard_concept
 4290407,Replacement of femoral head by prosthesis,Procedure,SNOMED,standard
 44514853,Primary prosthetic replacement of head of femur NEC,Procedure,OPCS4,standard
-2104937,,,,
-2104938,,,,
-46233291,,,,
+2104937,"Open treatment of spontaneous hip dislocation (developmental, including congenital or pathological), replacement of femoral head in acetabulum (including tenotomy, etc)",,,
+2104938,"Open treatment of spontaneous hip dislocation (developmental, including congenital or pathological), replacement of femoral head in acetabulum (including tenotomy, etc); with femoral shaft shortening",,,
+46233291,Other prosthetic replacement of head of femur,,,

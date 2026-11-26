@@ -6,8 +6,9 @@ udi <- udi_files |>
   purrr::map(~ readr::read_csv(.x, col_types = cols(.default = col_character())) |> pull("udi"))
 
 # diagnoses -----
+diag <- importCodelistWithDetails(here::here("cohorts","lens", "cohorts", "codelists", "comorbidities"))
 cdm[["lens_diagnoses"]] <- conceptCohort(cdm,
-                                        conceptSet = codes[c("cataract")],
+                                        conceptSet = diag,
                                         name = "lens_diagnoses",
                                         exit = "event_start_date")
 

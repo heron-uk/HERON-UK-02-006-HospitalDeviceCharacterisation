@@ -35,3 +35,5 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept,procedure
 42872828,Replacement of pulse generator of implantable cardioverter defibrillator using fluoroscopic guidance,Procedure,SNOMED,standard,replacement
 44511211,Renewal of cardiac pacemaker system NEC,Procedure,OPCS4,standard,replacement
 44511202,Renewal of intravenous cardiac pacemaker system NEC,Procedure,OPCS4,standard,replacement
+2106986,Insertion of new or replacement of permanent pacemaker with transvenous electrode(s); atrial,,,,
+4263207,Repositioning of cardioverter/defibrillator leads,Procedure,SNOMED,standard,

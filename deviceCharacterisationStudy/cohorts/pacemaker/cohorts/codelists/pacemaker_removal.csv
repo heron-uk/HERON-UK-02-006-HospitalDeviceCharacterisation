@@ -1,17 +1,16 @@
 concept_id,concept_name,domain_id,vocabulary_id,standard_concept,procedure 
-724619,NA,NA,NA,NA,removal
-724620,NA,NA,NA,NA,removal
-724621,NA,NA,NA,NA,removal
-2107027,NA,NA,NA,NA,removal
-2107028,NA,NA,NA,NA,removal
-2107029,NA,NA,NA,NA,removal
-2107030,NA,NA,NA,NA,removal
-2107031,NA,NA,NA,NA,removal
-2107042,NA,NA,NA,NA,removal
-2107046,NA,NA,NA,NA,removal
+724619,"Transcatheter removal of permanent dual-chamber leadless pacemaker, including imaging guidance (eg, fluoroscopy, venous ultrasound, right atrial angiography, right ventriculography, femoral venography), when performed; complete system (ie, right atrial...",NA,NA,NA,removal
+724620,"Transcatheter removal of permanent dual-chamber leadless pacemaker, including imaging guidance (eg, fluoroscopy, venous ultrasound, right atrial angiography, right ventriculography, femoral venography), when performed; right atrial pacemaker component",NA,NA,NA,removal
+724621,"Transcatheter removal of permanent dual-chamber leadless pacemaker, including imaging guidance (eg, fluoroscopy, venous ultrasound, right atrial angiography, right ventriculography, femoral venography), when performed; right ventricular pacemaker compo...",NA,NA,NA,removal
+2107027,Removal of permanent pacemaker pulse generator only,NA,NA,NA,removal
+2107028,"Removal of transvenous pacemaker electrode(s); single lead system, atrial or ventricular",NA,NA,NA,removal
+2107029,Removal of transvenous pacemaker electrode(s); dual lead system,NA,NA,NA,removal
+2107030,"Removal of permanent epicardial pacemaker and electrodes by thoracotomy; single lead system, atrial or ventricular",NA,NA,NA,removal
+2107031,Removal of permanent epicardial pacemaker and electrodes by thoracotomy; dual lead system,NA,NA,NA,removal
+2107042,Removal of permanent transvenous electrode(s) by thoracotomy,NA,NA,NA,removal
+2107046,Removal of single or dual chamber implantable defibrillator electrode(s); by transvenous extraction,NA,NA,NA,removal
 4019140,Complete removal of implanted cardiac pacemaker system,Procedure,SNOMED,standard,removal
 4050575,Removal of implanted cardiac pacemaker system or components,Procedure,SNOMED,standard,removal
-4055567,Removal of cardiac pacemaker from epicardium with replacement of atrial and/or ventricular leads,Procedure,SNOMED,standard,removal
 4055567,Removal of cardiac pacemaker from epicardium with replacement of atrial and/or ventricular leads,Procedure,SNOMED,standard,removal
 4101854,Removal of electronic heart device pulse generator,Procedure,SNOMED,standard,removal
 4161527,Removal of temporary cardiac pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard,removal
@@ -28,12 +27,12 @@ concept_id,concept_name,domain_id,vocabulary_id,standard_concept,procedure
 40482781,Surgical removal of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator by transthoracic approach,Procedure,SNOMED,standard,removal
 40484152,Surgical removal of transvenous electrode of single chamber pacing cardioverter defibrillator pulse generator by transvenous approach,Procedure,SNOMED,standard,removal
 40487514,Removal of cardiac biventricular permanent pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard,removal
-42742523,NA,NA,NA,NA,removal
-42742524,NA,NA,NA,NA,removal
-42742525,NA,NA,NA,NA,removal
-42742528,NA,NA,NA,NA,removal
-42742529,NA,NA,NA,NA,removal
-42742530,NA,NA,NA,NA,removal
+42742523,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; single lead system,NA,NA,NA,removal
+42742524,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; dual lead system,NA,NA,NA,removal
+42742525,Removal of permanent pacemaker pulse generator with replacement of pacemaker pulse generator; multiple lead system,NA,NA,NA,removal
+42742528,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; single lead system,NA,NA,NA,removal
+42742529,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; dual lead system,NA,NA,NA,removal
+42742530,Removal of implantable defibrillator pulse generator with replacement of implantable defibrillator pulse generator; multiple lead system,NA,NA,NA,removal
 44511203,Removal of intravenous cardiac pacemaker system,Procedure,OPCS4,standard,removal
 44783080,Removal of single-chamber cardiac pacemaker with replacement by dual-chamber cardiac pacemaker,Procedure,SNOMED,standard,removal
 46270961,Percutaneous removal of cardiac pacemaker electrode,Procedure,SNOMED,standard,removal

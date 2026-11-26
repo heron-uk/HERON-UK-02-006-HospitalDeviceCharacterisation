@@ -1,17 +1,15 @@
 concept_id,concept_name,domain_id,vocabulary_id,standard_concept,procedure
-724681,NA,NA,NA,NA,relocation
-724682,NA,NA,NA,NA,relocation
-724683,NA,NA,NA,NA,relocation
-745641,NA,NA,NA,NA,relocation
-745645,NA,NA,NA,NA,relocation
-745646,NA,NA,NA,NA,relocation
-2107005,NA,NA,NA,NA,relocation
+2107005,Repositioning of previously implanted transvenous pacemaker or implantable defibrillator (right atrial or right ventricular) electrode,NA,NA,NA,relocation
 4036236,Repositioning of permanent transvenous electrodes,Procedure,SNOMED,standard,relocation
 4044395,Reposition of cardiac pacemaker pocket,Procedure,SNOMED,standard,relocation
 4070936,Relocation of cardiac pacemaker pocket to new site in subcutaneous tissue,Procedure,SNOMED,standard,relocation
-4077018,Replacement of transvenous atrial pacemaker electrode leads,Procedure,SNOMED,standard,relocation
 4280816,Repositioning of cardioverter/defibrillator pulse generator,Procedure,SNOMED,standard,relocation
 4308117,Relocation of automatic implantable cardioverter/defibrillator,Procedure,SNOMED,standard,relocation
 4328649,Reposition of permanent cardiac pacemaker using fluoroscopic guidance,Procedure,SNOMED,standard,relocation
 40488929,Repositioning of cardiac pacemaker lead using fluoroscopic guidance,Procedure,SNOMED,standard,relocation
-44816475,NA,NA,NA,NA,relocation
+44816475,Repositioning of defibrillator electrode and/or device accessed beneath the skin (Deprecated),NA,NA,NA,relocation
+2107025,"Repositioning of previously implanted cardiac venous system (left ventricular) electrode (including removal, insertion and/or replacement of existing generator)",,,,
+2313929,"Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with induction or attempted induction of arrhythmia; with right atrial pacing and recording, right ventricular pacing and recording, His b...",,,,
+2313928,"Comprehensive electrophysiologic evaluation with right atrial pacing and recording, right ventricular pacing and recording, His bundle recording, including insertion and repositioning of multiple electrode catheters, without induction or attempted indu...",,,,
+2313930,Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with induction or attempted induction of arrhythmia; with left atrial pacing and recording from coronary sinus or left atrium (List separa.,,,,
+2313931,Comprehensive electrophysiologic evaluation including insertion and repositioning of multiple electrode catheters with induction or attempted induction of arrhythmia; with left ventricular pacing and recording (List separately in addition to code for p...,,,,
